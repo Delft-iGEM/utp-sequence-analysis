@@ -1,0 +1,30 @@
+﻿,,,,"Enriched in whole-cell or UCYN-A samples, DESeq2 Wald test, P<0.05",,Log2FC UCYN-A vs B. bigelowii samples (positive = UCYN-A),,Average quantity in UCYN-A samples,,Average quantity in B. bigelowii samples,
+Gene product name,B bigelowii protein,detected in proteomes?,dTP?,Day,Night,Day,Night,Day,Night,Day,Night
+"FldA, flavodoxin",KC1-P2_N1_k49_Locus_4517_Transcript_1_1,Yes,Yes,Not significant,Not significant,-0.446487833,-1.775422836,230314.6458,34883.19466,272535.974,140452.3125
+"FldA, flavodoxin",KC1-P2_N2_k37_Locus_5719_Transcript_3_1,Yes,Yes,Not significant,Not significant,2.301426346,1.640312657,192185.1849,44539.72005,33313.87695,17066.54102
+"FldA, flavodoxin",KC1-P2_N3_CL4949Contig1_1,Yes,Yes,Not significant,Not significant,0.209724745,-0.956781994,58736.69596,13727.20378,42683.22786,32451.90951
+"FldA, flavodoxin",KC1-P2_N3_k43_Locus_1112_Transcript_3_1,Yes,Yes,Not significant,UCYN-A,2.926163582,14.71268323,15719.82715,3031.007487,5741.892578,0
+"FldA, flavodoxin",KC1-P2_N4_k43_Locus_3250_Transcript_8_1,Yes,Yes,UCYN-A,UCYN-A,16.04755115,16.57131144,9275.127279,10965.20898,0,0
+"FldA, flavodoxin",KC1-P2-N_k25_Locus_10184_Transcript_3_1,Yes,Yes,Not significant,Not significant,-0.263625995,-0.594839882,190610.3125,55477.52214,192995.9688,100839.4193
+"FldA, flavodoxin",KC1-P2-N_k25_Locus_11305_Transcript_3_1,Yes,Yes,Not significant,Not significant,1.533990221,-0.1526848,45716.66471,4045.021403,13397.63379,8369.461914
+"FldA, flavodoxin",KC1-P2-N_k25_Locus_14024_Transcript_11_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"FldA, flavodoxin",KC1-P2-N_k43_Locus_5485_Transcript_1_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"FldA, flavodoxin",KC1-P2-N_k43_Locus_7389_Transcript_6_1,Yes,Yes,Not significant,Not significant,-1.173621789,-2.214981381,39329.40592,8814.406901,74692.20833,49176.75781
+"FldA, flavodoxin",KC1-P2-N_k49_Locus_3568_Transcript_2_1,Yes,Yes,UCYN-A,UCYN-A,11.83662062,13.94349116,606.9674072,1811.921102,0,0
+"FldA, flavodoxin",KC1-P2-N_k55_Locus_12264_Transcript_2_1,Yes,Yes,Not significant,Not significant,0.835211576,-1.824681334,14303.49219,1349.301351,11122.69653,8382.399658
+"FldA, flavodoxin",KC1-P2-N_k61_Locus_1506_Transcript_2_1,Yes,Yes,Not significant,Not significant,-1.080337633,-2.408485742,11284.1901,3042.096517,20508.76237,18844.17611
+"FldA, flavodoxin",KC1-P2-N_CL4460Contig1_1,No,No,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"FldA, flavodoxin",KC1-P2-N_CL953Contig1_1,No,No,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"FldA, flavodoxin",KC1-P2-N_k31_Locus_2428_Transcript_2_1,No,No,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"FldA, flavodoxin",KC1-P2-N_k31_Locus_318_Transcript_117_1,No,No,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"FldA, flavodoxin",KC1-P2-N_k43_Locus_21741_Transcript_2_1,No,No,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"FldA, flavodoxin",KC1-P2-N_k49_Locus_22210_Transcript_3_1,No,No,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Fd, 2Fe-2S ferredoxin",KC1-P2_N4_CL3246Contig1_1;KC1-P2_N4_k43_Locus_14011_Transcript_1_1;KC1-P2-N_k49_Locus_12801_Transcript_1_1,Yes,No,Whole-cell,Whole-cell,-16.67037584,-15.30998287,0,0,12082.87956,5490.609538
+"Fd, 2Fe-2S ferredoxin",KC1-P2_N1_k69_Locus_8545_Transcript_1_1;KC1-P2_N3_k25_Locus_14529_Transcript_2_1,Yes,No,Whole-cell,Whole-cell,-16.5706133,-16.68460784,0,0,11094.34408,14297.10807
+"Fd, 2Fe-2S ferredoxin",KC1-P2-N_k49_Locus_12801_Transcript_1_1,No,No,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Fd, 2Fe-2S ferredoxin",KC1-P2-N_k25_Locus_2793_Transcript_1_1,No,No,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Fd, 2Fe-2S ferredoxin",BDA39546.1,Yes,No,UCYN-A,UCYN-A,10.79044277,14.04167901,276.353157,2068.415304,0,0
+"Fd, 2Fe-2S ferredoxin",BDA40040.1,Yes,No,Not significant,Whole-cell,-1.779141046,-3.713257627,244647.151,31394.98047,727432.9167,507285.5521
+"Fd, FdxN, 4Fe-4S ferredoxin",BDA40043.1,Yes,No,UCYN-A,Not significant,17.33711694,0,20561.34961,0,0,0
+"Fd, 4Fe-4S ferredoxin",BDA40187.1,Yes,No,Not significant,Not significant,-5.030874014,0,177.5907288,0,15974.39063,0
+"Fd, 2Fe-2S ferredoxin",BDA39441.1,Yes,No,Not significant,Whole-cell,-2.687986322,-4.352922834,17495.8457,1371.026896,97097.98958,33982.95768

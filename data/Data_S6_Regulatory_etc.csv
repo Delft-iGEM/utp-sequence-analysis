@@ -1,0 +1,19 @@
+﻿,,,,"Enriched in whole-cell or UCYN-A samples, DESeq2 Wald test, P<0.05",,Log2FC UCYN-A vs B. bigelowii samples (positive = UCYN-A),,Average quantity in UCYN-A samples,,Average quantity in B. bigelowii samples,
+Gene product name,B bigelowii protein,detected in proteomes?,uTP?,Day,Night,Day,Night,Day,Night,Day,Night
+"Cry, cryptochrome circadian regulator",KC1-P2-N_k43_Locus_2737_Transcript_2_1,Yes,Yes,UCYN-A,UCYN-A,18.36309242,18.69294897,40464.55208,48016.91797,0,0
+"Cry, cryptochrome circadian regulator",KC1-P2_N3_k43_Locus_3569_Transcript_8_1,Yes,Yes,UCYN-A,UCYN-A,18.37334405,18.68611685,52961.32365,45230.86589,0,0
+"Fmt, methionyl-tRNA formyltransferase [EC:2.1.2.9]",KC1-P2-N_k43_Locus_15773_Transcript_2_1,Yes,Yes,UCYN-A,Not significant,16.04798343,-0.359667801,8935.069092,1513.652079,0,7228.967773
+methenyltetrahydrofolate cyclohydrolase [EC:3.5.4.9],KC1-P2-N_k25_Locus_8380_Transcript_11_1,Yes,Yes,UCYN-A,UCYN-A,14.25117451,15.84241763,5815.585938,6457.566162,0,0
+"PTH2, peptidyl-tRNA hydrolase [EC:3.1.1.29]",KC1-P2_N4_CL3Contig13_1,Yes,Yes,UCYN-A,UCYN-A,15.7953359,16.48423269,7654.051432,10921.25977,0,0
+tRNA (Uracil-5-)-methyltransferase [EC:2.1.1.35 ],KC1-P2-N_k37_Locus_10670_Transcript_7_1,Yes,No,UCYN-A,UCYN-A,15.80930714,15.25091936,7833.179118,4367.62557,0,0
+"ARC1, aminoacyl tRNA synthase complex-interacting multifunctional protein 1",KC1-P2-N_k65_Locus_15197_Transcript_1_1,Yes,No,UCYN-A,UCYN-A,17.05088351,17.81777247,17470.95638,26420.14063,0,0
+"APE1, Ape1-like apurinic/apyrimidinic endonuclease",KC1-P2-N_k25_Locus_27466_Transcript_1_1,Yes,No,UCYN-A,Not significant,14.06444828,0,5109.524414,0,0,0
+S-adenosyl-L-methionine dependent methyltransferase,KC1-P2-N_k49_Locus_12489_Transcript_1_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+RNA helicase [EC:3.6.4.13] (low confidence),KC1-P2-N_k43_Locus_11614_Transcript_4_1,Yes,Yes,UCYN-A,UCYN-A,13.75585505,11.59133283,1581.892843,595.26474,0,0
+S4 RNA-binding domain (low confidence),KC1-P2_N3_k25_Locus_1862_Transcript_8_1,Yes,Yes,UCYN-A,UCYN-A,16.63195469,15.13504459,14659.78296,4460.611226,0,0
+"EF-Tu, elongation factor thermal unstable",KC1-P2_N4_k25_Locus_1473_Transcript_1_1,Yes,No,UCYN-A,UCYN-A,18.74290433,5.961084227,58606.70573,90534.19531,0,5317.100098
+"SUI1, translation initiation factor PF01253",KC1-P2-N_k43_Locus_19536_Transcript_3_1,Yes,No,UCYN-A,UCYN-A,14.44225063,17.92016619,3710.580566,40094.47656,0,0
+"TFIID, Transcription initiation factor TFIID subunit 5",KC1-P2-N_k31_Locus_4196_Transcript_4_1,Yes,No,UCYN-A,UCYN-A,3.76952605,4.242589845,480770.3073,520885.7083,27977.27799,31862.14258
+"Mtase, class 1 SAM-dependent methyltransferase",KC1-P2_N4_k31_Locus_2224_Transcript_1_1,Yes,No,UCYN-A,Not significant,10.35410526,0,182.7409566,0,0,0
+Aldehyde dehydrogenase,KC1-P2-N_CL1190Contig1_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Aldehyde dehydrogenase,KC1-P2_N3_k55_Locus_5353_Transcript_5_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A

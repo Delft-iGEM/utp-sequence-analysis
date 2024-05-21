@@ -1,0 +1,19 @@
+﻿,,,,"Enriched in whole-cell or UCYN-A samples, DESeq2 Wald test, P<0.05",,Log2FC UCYN-A vs B. bigelowii samples (positive = UCYN-A),,Average quantity in UCYN-A samples,,Average quantity in B. bigelowii samples,
+Gene product name,B bigelowii protein,detected in proteomes?,uTP?,Day,Night,Day,Night,Day,Night,Day,Night
+"GDOR, glutathione dehydrogenase (ascorbate)",KC1-P2_N3_k25_Locus_4545_Transcript_1_1,Yes,Yes,UCYN-A,UCYN-A,14.61447549,16.17067284,3265.199463,8814.885742,0,0
+"HemeO, heme oxygenase",KC1-P2_N3_k49_Locus_3102_Transcript_9_1;KC1-P2-N_k49_Locus_22867_Transcript_4_1,Yes,Yes,UCYN-A,UCYN-A,15.70905922,15.32739774,6934.296143,4511.246501,0,0
+"aaRSs, class I aminoacyl-tRNA synthetase  ",KC1-P2-N_CL7724Contig1_1,Yes,Yes,UCYN-A,UCYN-A,16.98839791,16.67397571,17653.73893,12224.70378,0,0
+"ISIP3, iron starvation induced protein 3",KC1-P2-N_k37_Locus_5370_Transcript_5_1,Yes,N,UCYN-A,Not significant,14.18585884,-4.927969275,2418.266968,100.260081,0,10761.41602
+"FldA, nifF, flavodoxin",KC1-P2_N4_k43_Locus_3250_Transcript_8_1,Yes,Yes,UCYN-A,UCYN-A,16.04755115,16.57131144,9275.127279,10965.20898,0,0
+"CYP, cytochrome P450",KC1-P2-N_k31_Locus_5960_Transcript_7_1,Yes,Yes,UCYN-A,UCYN-A,17.44320692,16.32506576,25020.30273,8910.734049,0,0
+"CYP, cytochrome P450",KC1-P2-N_k37_Locus_5087_Transcript_14_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"CYP, cytochrome P450",KC1-P2_N3_CL1949Contig1_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"CYP, cytochrome P450",KC1-P2-N_k25_Locus_19177_Transcript_4_1,Yes,Yes,UCYN-A,UCYN-A,12.23871162,11.18383932,797.4729004,657.2435913,0,0
+"CYP, cytochrome P450",KC1-P2-N_k49_Locus_8710_Transcript_3_1,Yes,Yes,UCYN-A,UCYN-A,19.0667368,17.09172303,80956.84505,16855.41699,0,0
+"CYP, cytochrome P450",KC1-P2_N3_k37_Locus_4143_Transcript_1_1,Yes,Yes,UCYN-A,UCYN-A,15.07062797,13.32626029,4599.133626,1105.314372,0,0
+"CYP, cytochrome P450",KC1-P2_N3_k49_Locus_1903_Transcript_2_1,Yes,Yes,Not significant,Not significant,-0.557701478,0.127024008,10441.70605,4935.236654,38713.19531,15802.27539
+"CYP, cytochrome P450",KC1-P2_N4_CL5183Contig1_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"CYP, cytochrome P450",KC1-P2-N_k31_Locus_7461_Transcript_3_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"CYP, cytochrome P450",KC1-P2_N3_k25_Locus_4511_Transcript_6_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Cry, cryptochrome circadian regulator",KC1-P2-N_k43_Locus_2737_Transcript_2_1,Yes,Yes,UCYN-A,UCYN-A,18.36309242,18.69294897,40464.55208,48016.91797,0,0
+"Cry, cryptochrome circadian regulator",KC1-P2_N3_k43_Locus_3569_Transcript_8_1,Yes,Yes,UCYN-A,UCYN-A,18.37334405,18.68611685,52961.32365,45230.86589,0,0

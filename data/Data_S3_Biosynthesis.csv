@@ -1,0 +1,54 @@
+﻿,,,,,,"Enriched in whole-cell or UCYN-A samples, DESeq2 Wald test, P<0.05",,Log2FC UCYN-A vs B. bigelowii samples (positive = UCYN-A),,Average quantity in UCYN-A samples,,Average quantity in B. bigelowii samples,
+KEGG Module,Pathway,Gene product name,B bigelowii protein,detected in proteomes?,uTP?,Day,Night,Day,Night,Day,Night,Day,Night
+M00001,Glycolysis (EMP),"PfkB, 6-phosphofructokinase 2 [EC:2.7.1.11]",KC1-P2-N_k69_Locus_12832_Transcript_2_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00001,Glycolysis (EMP),"PfkB, 6-phosphofructokinase 2 [EC:2.7.1.11]",KC1-P2-N_k43_Locus_10637_Transcript_2_1,Yes,No,UCYN-A,UCYN-A,17.00260151,15.11392127,18403.23079,4055.98641,0,0
+M00004/M00006,Pentose phosphate cycle/oxidative phase,"PGLS, 6-phosphogluconolactonase [EC:3.1.1.31]",KC1-P2_N4_k49_Locus_2063_Transcript_2_1,Yes,Yes,UCYN-A,UCYN-A,16.92532661,17.76097278,16153.27214,25428.2168,0,0
+M00004/M00006,Pentose phosphate cycle/oxidative phase,"PGLS, 6-phosphogluconolactonase [EC:3.1.1.31]",KC1-P2-N_CL2604Contig1_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00004/M00006,Pentose phosphate cycle/oxidative phase,"PGLS, 6-phosphogluconolactonase [EC:3.1.1.31]",KC1-P2-N_k25_Locus_5703_Transcript_9_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00004/M00006,Pentose phosphate cycle/oxidative phase,"PGLS, 6-phosphogluconolactonase [EC:3.1.1.31]",KC1-P2-N_k31_Locus_11197_Transcript_1_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00004/M00006,Pentose phosphate cycle/oxidative phase,"PGLS, 6-phosphogluconolactonase [EC:3.1.1.31]",KC1-P2-N_k49_Locus_12784_Transcript_4_1,Yes,Yes,UCYN-A,UCYN-A,1.517516347,0.394057433,21616.06576,58108.27995,10003.18066,50562.68229
+M00004/M00006,Pentose phosphate cycle/oxidative phase,"PGLS, 6-phosphogluconolactonase [EC:3.1.1.31]",KC1-P2-N_k61_Locus_6258_Transcript_5_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00004/M00006,Pentose phosphate cycle/oxidative phase,"PGLS, 6-phosphogluconolactonase [EC:3.1.1.31]",KC1-P2-N_k69_Locus_12056_Transcript_1_1,Yes,Yes,UCYN-A,UCYN-A,16.45310442,15.41212655,11670.2889,4918.995361,0,0
+M00004/M00006,Pentose phosphate cycle/oxidative phase,"PGLS, 6-phosphogluconolactonase [EC:3.1.1.31]",KC1-P2_N3_k25_Locus_4803_Transcript_8_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00004/M00006,Pentose phosphate cycle/oxidative phase,"PGLS, 6-phosphogluconolactonase [EC:3.1.1.31]",KC1-P2_N3_k31_Locus_763_Transcript_1_1,Yes,Yes,Not significant,Not significant,17.62627537,1.834964174,23756.26237,46218.97135,0,22214.39355
+M00004/M00006,Pentose phosphate cycle/oxidative phase,"PGLS, 6-phosphogluconolactonase [EC:3.1.1.31]",KC1-P2_N3_k37_Locus_4439_Transcript_6_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00004/M00006,Pentose phosphate cycle/oxidative phase,"PGLS, 6-phosphogluconolactonase [EC:3.1.1.31]",KC1-P2_N3_k55_Locus_6321_Transcript_1_1,Yes,Yes,Not significant,Not significant,2.852993617,16.78316679,13156.0083,13284.86751,5332.469727,0
+M00004/M00006,Pentose phosphate cycle/oxidative phase,"PGLS, 6-phosphogluconolactonase [EC:3.1.1.31]",KC1-P2_N4_CL607Contig1_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00004/M00006,Pentose phosphate cycle/oxidative phase,"PGLS, 6-phosphogluconolactonase [EC:3.1.1.31]",KC1-P2_N4_k25_Locus_1489_Transcript_5_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00014/M00129,Glucuronate pathway/Ascorbate biosynthesis,"Adh, alcohol dehydrogenase (NADP+) [EC:1.1.1.2]",KC1-P2-N_k37_Locus_11279_Transcript_6_1,Yes,Yes,UCYN-A,UCYN-A,14.49255675,13.7945278,6874.796875,1608.464762,0,0
+M00014/M00129,Glucuronate pathway/Ascorbate biosynthesis,"Adh, alcohol dehydrogenase (NADP+) [EC:1.1.1.2]",KC1-P2-N_k65_Locus_16241_Transcript_1_1,Yes,Yes,UCYN-A,UCYN-A,12.37337839,0,624.3365737,0,0,0
+M00051,De novo pyrimidine biosynthesis,"PyrE, orotate phosphoribosyltransferase [EC:2.4.2.10]",KC1-P2_N3_k65_Locus_4778_Transcript_3_1,Yes,Yes,Not significant,Not significant,16.19211182,14.3899611,10901.88208,2540.106079,0,0
+M00051,De novo pyrimidine biosynthesis,"PyrC, dihydroorotase [EC:3.5.2.3]",KC1-P2-N_k65_Locus_8243_Transcript_4_1,Yes,Yes,UCYN-A,UCYN-A,1.201090199,2.196127991,26238.57454,15438.59538,15434.17236,3927.089427
+M00938/M00126/M00841,Pyrimidine deoxyribonucleotide biosynthesis/Tetrahydrofolate biosynthesis,"DHFR, dihydrofolate reductase / thymidylate synthase [EC:1.5.1.3 2.1.1.45]",KC1-P2-N_CL1451Contig1_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00938/M00126/M00841,Pyrimidine deoxyribonucleotide biosynthesis/Tetrahydrofolate biosynthesis,"DHFR, dihydrofolate reductase / thymidylate synthase [EC:1.5.1.3 2.1.1.45]",KC1-P2-N_CL1576Contig1_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00938/M00126/M00841,Pyrimidine deoxyribonucleotide biosynthesis/Tetrahydrofolate biosynthesis,"DHFR, dihydrofolate reductase / thymidylate synthase [EC:1.5.1.3 2.1.1.45]",KC1-P2_N3_k65_Locus_10946_Transcript_1_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00020,Serine biosynthesis,"SerB, phosphoserine phosphatase [EC:3.1.3.3]",KC1-P2-N_k25_Locus_19719_Transcript_2_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00020,Serine biosynthesis,"SerB, phosphoserine phosphatase [EC:3.1.3.3]",KC1-P2_N1_k25_Locus_14367_Transcript_1_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00018,Threonine biosynthesis,"ThrC, threonine synthase [EC:4.2.3.1]",KC1-P2-N_CL7819Contig1_1,Yes,Yes,UCYN-A,UCYN-A,1.461559174,0.147180207,5887.04891,7699.011068,6233.674805,12460.06201
+M00018,Threonine biosynthesis,"ThrC, threonine synthase [EC:4.2.3.1]",KC1-P2_N3_k25_Locus_12655_Transcript_4_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00021,Cysteine biosynthesis,"MtnN, adenosylhomocysteine nucleosidase [EC:3.2.2.9]",KC1-P2_N3_CL4907Contig1_1,Yes,Yes,Not significant,Not significant,0.688793853,0.202501698,19414.514,3608.626953,10683.70907,5651.571655
+M00017,Methionine biosynthesis,"PatB, cysteine-S-conjugate beta-lyase [EC:4.4.1.13]",KC1-P2_N3_k31_Locus_2985_Transcript_1_1,Yes,Yes,UCYN-A,Not significant,15.3189684,15.46771821,5620.12915,5366.863525,0,0
+M00015,Proline biosynthesis,"ProC, pyrroline-5-carboxylate reductase [EC:1.5.1.2]",KC1-P2-N_k69_Locus_1573_Transcript_2_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00135,GABA biosynthesis,"ALDH, aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]",KC1-P2-N_CL1190Contig1_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00135,GABA biosynthesis,"ALDH, aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]",KC1-P2_N3_k55_Locus_5353_Transcript_5_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00135,GABA biosynthesis,"MAO, monoamine oxidase [EC:1.4.3.4]",KC1-P2_N3_k25_Locus_7521_Transcript_1_1,Yes,Yes,UCYN-A,Not significant,0.759094377,-1.255561887,91972.35156,8418.337891,45608.11068,24029.89388
+M00131,Inositol phosphate metabolism,"IMPA, myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]",KC1-P2-N_k55_Locus_729_Transcript_1_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00131,Inositol phosphate metabolism,"IMPA, myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]",KC1-P2_N4_k25_Locus_3543_Transcript_1_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00022,Shikimate pathway,"AroA, 3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19]",KC1-P2-N_k43_Locus_20860_Transcript_1_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00125,Riboflavin biosynthesis,"RibD, diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase [EC:3.5.4.26 1.1.1.193]",KC1-P2-N_k69_Locus_9392_Transcript_5_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00125,Riboflavin biosynthesis,"FHY1, FMN hydrolase / 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase [EC:3.1.3.102 3.1.3.104]",KC1-P2-N_CL1178Contig1_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00121 and others,Heme biosynthesis,"UROD, hemE, uroporphyrinogen decarboxylase [EC:4.1.1.37]",KC1-P2-N_k31_Locus_956_Transcript_6_1,Yes,Yes,UCYN-A,UCYN-A,16.09020782,16.00914349,9531.555176,7398.385417,0,0
+M00121 and others,Heme biosynthesis,"UROD, hemE, uroporphyrinogen decarboxylase [EC:4.1.1.37]",KC1-P2_N3_k37_Locus_8280_Transcript_4_1,Yes,No,Not significant,Not significant,2.508980023,0.988312413,138747.651,21991.2474,20433.59408,13164.59245
+M00122,Cobalamin biosynthesis,"CobC, alpha-ribazole phosphatase [EC:3.1.3.73]",KC1-P2-N_k69_Locus_22898_Transcript_1_1,Yes,No,UCYN-A,UCYN-A,14.21387311,12.69928134,5667.14209,1879.412842,0,0
+M00122,Cobalamin biosynthesis,"CobC, alpha-ribazole phosphatase [EC:3.1.3.73]",KC1-P2-N_k37_Locus_10861_Transcript_1_1,No,No,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00122,Cobalamin biosynthesis,"CobC, alpha-ribazole phosphatase [EC:3.1.3.73]",KC1-P2_N2_k43_Locus_9776_Transcript_1_1,No,No,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00122,Cobalamin biosynthesis,"CobC, alpha-ribazole phosphatase [EC:3.1.3.73]",KC1-P2-N_k25_Locus_6827_Transcript_9_1,No,No,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00122,Cobalamin biosynthesis,"CobC, alpha-ribazole phosphatase [EC:3.1.3.73]",KC1-P2-N_CL3363Contig1_1,No,No,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00122,Cobalamin biosynthesis,"CobC, alpha-ribazole phosphatase [EC:3.1.3.73]",KC1-P2-N_k43_Locus_2634_Transcript_3_1,No,No,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00122,Cobalamin biosynthesis,"CobC, alpha-ribazole phosphatase [EC:3.1.3.73]",KC1-P2_N1_k49_Locus_2550_Transcript_2_1,No,No,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00925,Cobalamin biosynthesis,"CobT, cobaltochelatase CobT [EC:6.6.1.2]",KC1-P2_N3_k31_Locus_9846_Transcript_1_1,No,No,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00925,Cobalamin biosynthesis,"CobT, cobaltochelatase CobT [EC:6.6.1.2]",KC1-P2-N_k49_Locus_22234_Transcript_3_1,No,No,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00096,C5 isoprenoid biosynthesis,"IspD, 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [EC:2.7.7.60]",KC1-P2_N3_k25_Locus_4048_Transcript_6_1,Yes,Yes,UCYN-A,UCYN-A,17.95305685,19.72137229,37643.39583,96692.90365,0,0
+M00096,C5 isoprenoid biosynthesis,"IspD, 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [EC:2.7.7.60]",KC1-P2_N4_k43_Locus_5997_Transcript_2_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00096,C5 isoprenoid biosynthesis,"Idi, isopentenyl-diphosphate Delta-isomerase [EC:5.3.3.2]",KC1-P2-N_k49_Locus_13857_Transcript_1_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+M00096,C5 isoprenoid biosynthesis,"Idi, isopentenyl-diphosphate Delta-isomerase [EC:5.3.3.2]",KC1-P2_N3_k55_Locus_8827_Transcript_1_1,No,Yes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A

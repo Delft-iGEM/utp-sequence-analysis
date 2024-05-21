@@ -1,0 +1,35 @@
+﻿,,,,"Enriched in whole-cell or UCYN-A samples, DESeq2 Wald test, P<0.05",,Log2FC UCYN-A vs B. bigelowii samples (positive = UCYN-A),,Average quantity in UCYN-A samples,,Average quantity in B. bigelowii samples,
+Gene product name,UCYN-A gene,detected in proteomes?,uTP?,Day,Night,Day,Night,Day,Night,Day,Night
+"NifB, nitrogenase subunit required FeMo-co synthesis. Fe and S donor to FeMo-co",BDA40026.1,Yes,No,Not significant,UCYN-A,4.845499127,5.550227888,101047.7396,67557.14714,11371.58691,5413.800293
+"NifS, nitrogenase subunit involved in mobilization of S for Fe–S cluster synthesis and repair",BDA40028.1,Yes,No,Not significant,Not significant,4.007225081,1.759169954,84723.64583,42640.40625,15687.42871,14989.00846
+"NifH, dinitrogenase reductase",BDA40030.1,Yes,No,UCYN-A,UCYN-A,5.220122318,2.609144705,1562371.25,525949.7604,44515.19792,103736.8424
+"NifW, nitrogenase subunit involved in stability of dinitrogenase. Proposed to protect dinitrogenase from O2 inactivation",BDA40037.1,Yes,No,Not significant,Not significant,1.240184402,-0.942469554,75448.67188,24884.56185,29837.29492,56645.06641
+"NifX, nitrogenase subunit involved in FeMo-co synthesis",BDA40035.1,Yes,No,UCYN-A,Not significant,3.853455933,0.51236255,29796.41732,4338.920329,1811.301941,3629.092692
+"NifT/FixU, nitrogenase subunit involved in biosynthesis of the FeMo cofactor",BDA40021.1,Yes,No,Not significant,Not significant,0.883970386,-0.114883629,32999.16862,9322.728841,16492.54427,12242.47103
+"NifU, nitrogenase subunit involved in mobilization of Fe–S cluster synthesis and repair",BDA40029.1,Yes,No,UCYN-A,UCYN-A,5.531681057,3.118117013,68605.07552,98854.75521,2197.069865,13243.81901
+"NifV, nitrogenase subunit. Homocitrate synthesis involved in FeMo-co synthesis",BDA40023.1,Yes,No,UCYN-A,UCYN-A,15.21402588,16.62966629,6387.556641,10990.51318,0,0
+"NifD, α-Subunit of dinitrogenase",BDA40031.1,Yes,No,UCYN-A,UCYN-A,4.101582507,2.747188872,689480.0313,735816.875,42174.19727,128558.8021
+"NifK,  B-subunits of dinitrogenase",BDA40032.1,Yes,No,UCYN-A,UCYN-A,4.043286097,5.205137123,2754521,3253631.667,153955.2188,104438.5156
+"NifE, nitrogenase subunit that forms a2 B2 tetramer with nifN. Required for FeMo-co synthesis",BDA40033.1,Yes,No,UCYN-A,UCYN-A,17.11492707,17.48880733,17549.71191,20795.51953,0,0
+"NifN, nitrogenase subunit. Required for FeMo-co synthesis",BDA40034.1,Yes,No,UCYN-A,Not significant,19.09021657,-0.613852105,82484.41797,24219.6263,0,132152.2344
+"PsaF,  Photosystem I reaction center subunit III",BDA40052.1,Yes,No,Not significant,Not significant,2.243881745,1.474791525,2050918.792,5315677.417,378322.9792,2163845.625
+"PsaC,  FeS apoprotein for Fa and Fb",BDA39698.1,Yes,No,UCYN-A,UCYN-A,5.065410994,2.750421782,2288555.708,2585688.167,63687.11589,452017.2917
+"PsaD, ferredoxin-binding",BDA39703.1,Yes,No,UCYN-A,UCYN-A,4.345482123,2.923391059,1471112.25,1302191.333,63959.29427,202228.125
+"PsaB, Photosystem I reaction center binds p700",BDA40127.1,Yes,No,Not significant,Not significant,-1.255506318,0.065113501,270412.0729,796909.8125,592087.1458,903610.2917
+"PsaA, Photosystem I reaction center binds p700",BDA40126.1,Yes,No,Not significant,Not significant,-0.733359398,0.246784597,387697.1979,986897.4792,587353.2188,988866.7708
+"PetH,  ferredoxin reductase",BDA39955.1,Yes,No,Not significant,Not significant,1.995825754,1.022187064,2721570.333,532681.8646,572528.6667,313307.8333
+"PetC,  rieske FeS protein - cytb6f subunit",BDA39883.1,Yes,No,UCYN-A,UCYN-A,6.946671663,7.998174077,1152870.698,543830.5521,12384.22949,7530.554199
+"PetA,  cytochrome f",BDA39882.1,Yes,No,Not significant,Not significant,0.475500866,0.618499306,351642.6406,308237.8646,213331.0938,237180.9427
+"AtpA,  ATP synthase F1, alpha subunit",BDA39584.1,Yes,No,UCYN-A,Not significant,2.989918941,2.500866304,1853415.25,1537048.792,203170.6042,321211.1094
+"AtpB,  ATP synthase F1, beta subunit",BDA39708.1,Yes,No,UCYN-A,UCYN-A,5.144753078,4.256848392,3163227.667,2253134.167,75231.51563,139465.2656
+"PsaK,  Photosystem I reaction center subunit X, PsaK",BDA40097.1,Yes,No,Not significant,Not significant,0.132104813,0.914100613,251058.5729,343798.9271,204692.3646,214727.0885
+"PsaE,  Photosystem I reaction centre subunit IV / PsaE",BDA39736.1,Yes,No,UCYN-A,Not significant,5.563156404,2.147674561,253352.2057,167805.2604,7234.58374,44952.36328
+"AtpC,  Cytochrome b6-f complex subunit 4 [petD].",BDA39583.1,Yes,No,Not significant,Not significant,0.917169145,2.235945537,84373.22396,417399.7813,42545.25521,106937.8021
+"PetD,  Cytochrome b(N-terminal)/b6/petB",BDA39172.1,Yes,No,Not significant,Not significant,0.478689122,-0.199773486,243634.3802,92677.46875,145345.7188,124793.349
+"PetB,  ATP synthase subunit delta",BDA39171.1,Yes,No,Not significant,Not significant,0.387197266,0.446869894,212114.0781,192107.849,136141.2786,169347.9635
+"AtpD,  Fd-nadp reductase",BDA39585.1,Yes,No,UCYN-A,Not significant,3.399819526,2.601299066,801941.4583,659956.1667,66008.96094,127189.3984
+"PetH,  ATP synthase gamma subunit",BDA39955.1,Yes,No,Not significant,Not significant,1.995825754,1.022187064,2721570.333,532681.8646,572528.6667,313307.8333
+"Prxs,  Peroxiredoxin",BDA39903.1,Yes,No,Not significant,Not significant,1.494782337,0.941769625,1709439.542,873364.4167,504192.4375,540664.1771
+"PC, PetE,  plastocyanin",BDA39678.1,Yes,No,UCYN-A,Not significant,4.010546918,3.25713214,225681.5052,23702.49284,12386.14567,4357.082886
+"PetF,  ferredoxin",BDA40040.1,Yes,No,Not significant,Whole-cell,-1.779141046,-3.713257627,244647.151,31394.98047,727432.9167,507285.5521
+"RpsA, 30S ribosomal protein S1",BDA39756.1,Yes,No,UCYN-A,UCYN-A,20.21887824,2.823789706,156142.6719,213595.7083,0,35233.92448

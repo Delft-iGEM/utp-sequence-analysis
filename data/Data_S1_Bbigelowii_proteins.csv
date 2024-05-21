@@ -1,0 +1,14 @@
+﻿,,,,"Enriched in whole-cell or UCYN-A samples, DESeq2 Wald test, P<0.05",,Log2FC UCYN-A vs B. bigelowii samples (positive = UCYN-A),,Average quantity in UCYN-A samples,,Average quantity in B. bigelowii samples,
+Gene product name,B bigelowii protein,detected in proteomes?,uTP?,Day,Night,Day,Night,Day,Night,Day,Night
+"rbcS, Ribulose-1,5-bisphosphate carboxylase oxygenase small subunit",SAG_S1_L001_R1_001_(paired)_co.g21,Yes,No,Whole-cell,Whole-cell,-11.75781642,-12.95400376,2798.802856,857.0412394,5216174.583,7570994.333
+"rbcL, Ribulose-1,5-bisphosphate carboxylase oxygenase large subunit",KC1-P2-N_k25_Locus_19814_Transcript_1_1;SAG_S1_L001_R1_001_(paired)_co.g22,Yes,No,Whole-cell,Whole-cell,-11.10562543,-11.94332525,8065.508443,4789.229004,14259219.33,22565468
+"PsaA, Photosystem I PsaA/PsaB",KC1-P2-N_k25_Locus_17373_Transcript_1_1,Yes,No,Whole-cell,Whole-cell,-7.026254418,-8.684990817,29974.67839,7733.424154,4435460.75,3906073.167
+"Lhcb, Chlorophyll A-B binding protein",KC1-P2_N1_CL10Contig4_1;KC1-P2_N1_CL10Contig5_1;KC1-P2_N1_k49_Locus_3058_Transcript_17_1;KC1-P2_N2_CL9Contig10_1;KC1-P2_N2_CL9Contig6_1;KC1-P2_N3_k61_Locus_2912_Transcript_2_1;KC1-P2_N4_CL14Contig1_1;KC1-P2-N_CL4Contig28_1;KC1-P2-N_CL4Contig41_1,Yes,No,Whole-cell,Whole-cell,-7.272724589,-6.868227428,14594.64616,22459.43734,1893874.667,3312549.167
+"psbA, photosystem II protein D1",KC1-P2_N3_k43_Locus_20692_Transcript_1_1;SAG_S1_L001_R1_001_(paired)_co.g9,Yes,No,Whole-cell,Whole-cell,-7.858425535,-9.366482774,2652.331034,817.4855347,502963.3438,670558.7396
+"PetA, Cytochrome f",KC1-P2-N_k25_Locus_36766_Transcript_1_1,Yes,No,Whole-cell,Whole-cell,-7.385559745,-8.56894421,9294.343994,2755.416219,1718707.417,1176584
+"RPE, D-ribulose-5-phosphate 3-epimerase",KC1-P2_N2_k49_Locus_17972_Transcript_4_1,Yes,No,Whole-cell,Whole-cell,-23.82012935,-7.539048954,0,9336.911499,1733521.083,1284671.792
+"GPx, glutathione peroxidase",KC1-P2_N4_k49_Locus_3640_Transcript_4_1,Yes,No,Whole-cell,Whole-cell,-23.68553879,-22.26169314,0,0,2472852.875,1936682.25
+"PetH, Ferredoxin--NADP reductase, plant and Cyanobacteria type",KC1-P2_N1_k69_Locus_4536_Transcript_1_1,Yes,No,Whole-cell,Whole-cell,-12.08918504,-5.922997754,2478.267822,135099.1719,2533988.417,2762626.083
+"GAPDH-I, glyceraldehyde-3-phosphate dehydrogenase, type I",KC1-P2-N_k25_Locus_14254_Transcript_1_1,Yes,No,Whole-cell,Whole-cell,-6.676819799,-7.972305643,158717.3867,54063.07682,12531586.67,15448587.33
+"CSase, O3-acetyl-L-serine:hydrogen-sulfide 2-amino-2-carboxyethyltransferase",KC1-P2_N4_k49_Locus_4539_Transcript_4_1,Yes,No,Whole-cell,Whole-cell,-7.508626577,-25.13410796,59390.39453,0,3105084.25,4950111.833
+"GAT, Class I glutamine amidotransferase",KC1-P2_N4_k25_Locus_7392_Transcript_1_1,Yes,No,Whole-cell,Whole-cell,-20.91109321,-5.149986348,0,16676.43164,230485.7292,282885.0156
