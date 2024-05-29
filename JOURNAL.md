@@ -15,6 +15,18 @@
 6. MEME was run on the cropped aligments with `-protein -nmotifs 10 -neg ./proteomics_DB_no_c_term.fasta -objfun de` (`ucyn-a_enriched/meme/meme_gb.xml`)
 7. The motifs were visualized in `motifs.ipynb`
 
+## Protein Localization Prediction
+
+1. The localization of each UCYN-A enriched protein was predicted using [MuLocDeep](https://www.mu-loc.org/) -> `ucyn-a_enriched/mulocdeep-localization`
+2. The attention weights as a function of sequence postion were visualized in `localizations.ipynb`
+3. The total C-terminal and N-terminal attention weights were compared for different localizations in `localizations.ipynb`
+
 ## Transit Peptide Evaluation
 
-## Transit Peptide
+Ideas:
+
+- Structure (mainly secondary structure)
+- Discriminator trained on transit peptide embeddings
+- HMM-based search
+
+## Transit Peptide Homology Search
