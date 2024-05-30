@@ -1,8 +1,10 @@
 import argparse
+from pathlib import Path
 from Bio import SeqIO
 
 
-def split_fasta_file(input_file, output_prefix, max_sequences=100):
+def split_fasta_file(input_file, output_prefix, out_dir, max_sequences=100):
+    out_dir = Path(out_dir)
     records = list(SeqIO.parse(input_file, "fasta"))
     num_sequences = len(records)
     num_files = (num_sequences + max_sequences - 1) // max_sequences
@@ -10,8 +12,12 @@ def split_fasta_file(input_file, output_prefix, max_sequences=100):
     for i in range(num_files):
         start = i * max_sequences
         end = min((i + 1) * max_sequences, num_sequences)
-        output_file = f"{output_prefix}_{i}.fasta"
-        SeqIO.write(records[start:end], output_file, "fasta")
+        if num_files == num_sequences:
+            output_file = records[i].id + ".fasta"
+        else:
+            output_file = f"{output_prefix}_{i}.fasta"
+        file_path = out_dir / output_file
+        SeqIO.write(records[start:end], file_path, "fasta")
 
 
 if __name__ == "__main__":
@@ -24,7 +30,11 @@ if __name__ == "__main__":
         default=100,
         help="Maximum number of sequences per output file",
     )
+    parser.add_argument(
+        "--out_dir",
+        help="Output directory for the split fasta files",
+    )
     args = parser.parse_args()
 
     out_prefix = args.input_file.split(".")[0]
-    split_fasta_file(args.input_file, out_prefix, args.max_sequences)
+    split_fasta_file(args.input_file, out_prefix, args.out_dir, args.max_sequences)
