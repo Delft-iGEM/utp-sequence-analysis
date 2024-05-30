@@ -5,12 +5,11 @@ Usage: ProtT5-XL-U50-embedding.py <input fasta file>'
 
 """
 
+from pathlib import Path
 import warnings
 
 warnings.filterwarnings("ignore")
 import numpy as np
-import pandas as pd
-from sklearn.model_selection import StratifiedKFold
 import os
 import sys
 import re
@@ -21,6 +20,7 @@ from Bio import SeqIO
 import torch
 from transformers import T5EncoderModel, T5Tokenizer
 import gc
+import h5py
 
 
 def timer(start_time=None):
@@ -58,6 +58,13 @@ parser.add_argument(
     default=True,
     required=False,
 )
+parser.add_argument(
+    "-out",
+    dest="out",
+    help="path to output h5 file [default: ./embeddings.h5]",
+    default="./embeddings.h5",
+    required=False,
+)
 
 args = parser.parse_args()
 
@@ -93,54 +100,56 @@ if os.access(args.sequences, os.R_OK):
     model = model.to(device)
     model = model.eval()
 
+    outfile = Path(args.out)
     fasta_sequences = SeqIO.parse(args.sequences, "fasta")
-    with tqdm(total=nseq, desc="  Embedding", ncols=150, mininterval=5) as pbar:
-        for fasta in fasta_sequences:
-            # for fasta in tqdm(fasta_sequences, desc='  Embedding', ncols=150, mininterval=2):
-            sequences = []
-            # name, seq = fasta.description.split(" ")[0], list(" ".join(str(fasta.seq)))
-            name, seq = fasta.id.split(" ")[0], str(fasta.seq)
-            # delete * signs prodigal puts at the end of sequence
-            seq = re.sub(r"\*", "", seq)
-            slen = len(seq)
-            #            sequences.append(" ".join(str(fasta.seq)))
-            sequences.append(" ".join(seq))
-            name = re.sub(r"\|", "_", name)
-            name = re.sub(r"\/", "_", name)
-            # map rarely occured amino acids (U,Z,O,B) to (X)
-            sequences = [re.sub(r"[UZOJB]", "X", sequence) for sequence in sequences]
-            # Tokenize, encode sequences and load it into the GPU if possibile
-            ids = tokenizer.batch_encode_plus(
-                sequences, add_special_tokens=True, padding=True
-            )
-            input_ids = torch.tensor(ids["input_ids"]).to(device)
-            attention_mask = torch.tensor(ids["attention_mask"]).to(device)
-            # Extracting sequence features and load it into the CPU if needed
-            with torch.no_grad():
-                embedding = model(input_ids=input_ids, attention_mask=attention_mask)
-            embedding = embedding.last_hidden_state.cpu().numpy()
-            # Remove padding (\<pad>) and special tokens (\</s>) that is added by ProtT5-XL-UniRef50 model
-            features = []
-            for seq_num in range(len(embedding)):
-                seq_len = (attention_mask[seq_num] == 1).sum()
-                seq_emd = embedding[seq_num][: seq_len - 1]
-                features.append(seq_emd)
-
-            # df = pd.DataFrame(data=np.array(features).flatten().reshape(slen,1024), columns=features)
-            if args.mean_vec:
-                df = pd.DataFrame(
-                    np.array(features).astype(float).reshape(slen, 1024).mean(axis=0)
+    with h5py.File(outfile, "w") as f:
+        with tqdm(total=nseq, desc="  Embedding", ncols=150, mininterval=5) as pbar:
+            for fasta in fasta_sequences:
+                # for fasta in tqdm(fasta_sequences, desc='  Embedding', ncols=150, mininterval=2):
+                sequences = []
+                # name, seq = fasta.description.split(" ")[0], list(" ".join(str(fasta.seq)))
+                name, seq = fasta.id.split(" ")[0], str(fasta.seq)
+                # delete * signs prodigal puts at the end of sequence
+                seq = re.sub(r"\*", "", seq)
+                slen = len(seq)
+                #            sequences.append(" ".join(str(fasta.seq)))
+                sequences.append(" ".join(seq))
+                name = re.sub(r"\|", "_", name)
+                name = re.sub(r"\/", "_", name)
+                # map rarely occured amino acids (U,Z,O,B) to (X)
+                sequences = [
+                    re.sub(r"[UZOJB]", "X", sequence) for sequence in sequences
+                ]
+                # Tokenize, encode sequences and load it into the GPU if possibile
+                ids = tokenizer.batch_encode_plus(
+                    sequences, add_special_tokens=True, padding=True
                 )
-                df = df.transpose(copy=True)
-            else:
-                df = pd.DataFrame(np.array(features).astype(float).reshape(slen, 1024))
-            # df.columns = features
-            df.to_csv(name + ".csv", index=False, float_format="%.9f")
-            # df = pd.read_csv(name + '.csv', header=None, skiprows=1)
-            # df.columns = features
-            # df.to_csv(name + '.csv', index=False, float_format='%.9f')
+                input_ids = torch.tensor(ids["input_ids"]).to(device)
+                attention_mask = torch.tensor(ids["attention_mask"]).to(device)
+                # Extracting sequence features and load it into the CPU if needed
+                with torch.no_grad():
+                    embedding = model(
+                        input_ids=input_ids, attention_mask=attention_mask
+                    )
+                embedding = embedding.last_hidden_state.cpu().numpy()
+                # Remove padding (\<pad>) and special tokens (\</s>) that is added by ProtT5-XL-UniRef50 model
+                features = []
+                for seq_num in range(len(embedding)):
+                    seq_len = (attention_mask[seq_num] == 1).sum()
+                    seq_emd = embedding[seq_num][: seq_len - 1]
+                    features.append(seq_emd)
 
-            pbar.update()
+                # df = pd.DataFrame(data=np.array(features).flatten().reshape(slen,1024), columns=features)
+                features = np.array(features).astype(float).reshape(slen, 1024)
+                if args.mean_vec:
+                    # df = pd.DataFrame(
+                    #     np.array(features).astype(float).reshape(slen, 1024).mean(axis=0)
+                    # )
+                    # df = df.transpose(copy=True)
+                    features = features.mean(axis=0)
+                f.create_dataset(name, data=features)
+
+                pbar.update()
 
     timer(start_time)
 
