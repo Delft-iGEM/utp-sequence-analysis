@@ -15,6 +15,26 @@
 6. MEME was run on the cropped aligments with `-protein -nmotifs 10 -neg ./proteomics_DB_no_c_term.fasta -objfun de` (`ucyn-a_enriched/meme/meme_gb.xml`)
 7. The motifs were visualized in `motifs.ipynb`
 
+## Motif Analysis
+
+1. The positions of each motif's each occurence was computed relative to motif_1, which occured in 184 out of 204 sequences (`motifs.ipynb`)
+2. The distribution of these relative positions was visualized in `motifs.ipynb`
+3. The different combinations of motifs and the distribution of relative positions of motifs within these combinations were also visualized in `motifs.ipynb`
+4. The relationship between the mature domain and the motifs in the corresponding transit peptide was also analyzed:
+   1. Embeddings using``prot_t5_xl_uniref50` were computed for each mature domain
+   2. Several classifiers (`LogisticRegression`, `DecisionTreeClassifier`, `RandomForestClassifier`, `SVC` as implemented by sklearn, using default parameters) were trained to predict motif combinations based on protein mebeddings
+   3. Another set of classifiers (`DecisionTreeClassifier`, `RandomForestClassifier`, `SVC` as implemented by sklearn, using default parameters) were trained to predict motif combinations from amino acid contents of the mature domain
+   4. In both cases, binomial test was used to evaluate the statistical significance of the classifier accuracy, with `p < 0.05`
+
+## Structure analysis
+
+1. Structures for each UCYN-A imported protein selected in Motif Discovery (`ucyn-a_enriched/good-c-term-full.fasta`) was predicted using AlphaFold3 with default parameters.
+2. The structure data was analyised using biopython.PDB (`structs.ipynb`)
+3. The structure predictions were clustered
+   1. The structures were pairwise superimposed using `Biopython.PDB.Superimposer` and the RMSD calculated for each pair
+   2. These pairwise distances were used to create a hierarchical clustering using `scipy.cluster.hierarchy` (`structs.ipynb`)
+4.
+
 ## Protein Localization Prediction
 
 1. The localization of each UCYN-A enriched protein was predicted using [MuLocDeep](https://www.mu-loc.org/) -> `ucyn-a_enriched/mulocdeep-localization`
@@ -22,11 +42,5 @@
 3. The total C-terminal and N-terminal attention weights were compared for different localizations in `localizations.ipynb`
 
 ## Transit Peptide Evaluation
-
-Ideas:
-
-- Structure (mainly secondary structure)
-- Discriminator trained on transit peptide embeddings
-- HMM-based search
 
 ## Transit Peptide Homology Search
