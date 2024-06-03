@@ -1,3 +1,4 @@
+import json
 import argparse
 from pathlib import Path
 from Bio import SeqIO
@@ -13,11 +14,23 @@ def split_fasta_file(input_file, output_prefix, out_dir=".", max_sequences=100):
         start = i * max_sequences
         end = min((i + 1) * max_sequences, num_sequences)
         if num_files == num_sequences:
-            output_file = records[i].id + ".fasta"
+            output_file = records[i].id + ".json"
         else:
-            output_file = f"{output_prefix}_{i}.fasta"
+            output_file = f"{output_prefix}_{i}.json"
         file_path = out_dir / output_file
-        SeqIO.write(records[start:end], file_path, "fasta")
+
+        data = [
+            {
+                "name": record.id,
+                "modelSeeds": [],
+                "sequences": [
+                    {"proteinChain": {"sequence": str(record.seq), "count": 1}}
+                ],
+            }
+            for record in records[start:end]
+        ]
+        with open(file_path, "w") as f:
+            json.dump(data, f, indent=4)
 
 
 if __name__ == "__main__":

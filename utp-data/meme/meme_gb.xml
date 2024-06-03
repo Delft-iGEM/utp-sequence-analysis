@@ -201,212 +201,212 @@
 <letter id="Z" symbol="Z" equals="EQ" name="Glutamine or Glutamic acid"/>
 <letter id="J" symbol="J" equals="IL" name="Leucine or Isoleucine"/>
 </alphabet>
-<sequence id="sequence_0" name="KC1P2N_CL1062Contig1_1" length="87" weight="1.000000" />
-<sequence id="sequence_1" name="KC1P2N_CL2249Contig1_1" length="82" weight="1.000000" />
-<sequence id="sequence_2" name="KC1P2N_CL3877Contig1_1" length="72" weight="1.000000" />
-<sequence id="sequence_3" name="KC1P2N_CL425Contig1_1" length="84" weight="1.000000" />
-<sequence id="sequence_4" name="KC1P2N_CL7313Contig1_1" length="84" weight="1.000000" />
-<sequence id="sequence_5" name="KC1P2N_CL7724Contig1_1" length="90" weight="1.000000" />
-<sequence id="sequence_6" name="KC1P2N_CL7868Contig1_1" length="86" weight="1.000000" />
-<sequence id="sequence_7" name="KC1P2N_CL8355Contig1_1" length="80" weight="1.000000" />
-<sequence id="sequence_8" name="KC1P2N_CL8449Contig1_1" length="81" weight="1.000000" />
-<sequence id="sequence_9" name="KC1P2N_k25_Locus_10091_Transcript_12_1" length="73" weight="1.000000" />
-<sequence id="sequence_10" name="KC1P2N_k25_Locus_10481_Transcript_2_1" length="88" weight="1.000000" />
-<sequence id="sequence_11" name="KC1P2N_k25_Locus_10664_Transcript_9_1" length="77" weight="1.000000" />
-<sequence id="sequence_12" name="KC1P2N_k25_Locus_1140_Transcript_7_1" length="75" weight="1.000000" />
-<sequence id="sequence_13" name="KC1P2N_k25_Locus_11903_Transcript_1_1" length="91" weight="1.000000" />
-<sequence id="sequence_14" name="KC1P2N_k25_Locus_12286_Transcript_7_1" length="90" weight="1.000000" />
-<sequence id="sequence_15" name="KC1P2N_k25_Locus_12808_Transcript_1_1" length="84" weight="1.000000" />
-<sequence id="sequence_16" name="KC1P2N_k25_Locus_13183_Transcript_1_1" length="85" weight="1.000000" />
-<sequence id="sequence_17" name="KC1P2N_k25_Locus_1333_Transcript_10_1" length="73" weight="1.000000" />
-<sequence id="sequence_18" name="KC1P2N_k25_Locus_13647_Transcript_9_1" length="86" weight="1.000000" />
-<sequence id="sequence_19" name="KC1P2N_k25_Locus_14815_Transcript_6_1" length="77" weight="1.000000" />
-<sequence id="sequence_20" name="KC1P2N_k25_Locus_1651_Transcript_2_1" length="95" weight="1.000000" />
-<sequence id="sequence_21" name="KC1P2N_k25_Locus_19177_Transcript_4_1" length="74" weight="1.000000" />
-<sequence id="sequence_22" name="KC1P2N_k25_Locus_19503_Transcript_4_1" length="81" weight="1.000000" />
-<sequence id="sequence_23" name="KC1P2N_k25_Locus_199_Transcript_10_1" length="83" weight="1.000000" />
-<sequence id="sequence_24" name="KC1P2N_k25_Locus_20183_Transcript_3_1" length="81" weight="1.000000" />
-<sequence id="sequence_25" name="KC1P2N_k25_Locus_20436_Transcript_1_1" length="86" weight="1.000000" />
-<sequence id="sequence_26" name="KC1P2N_k25_Locus_22934_Transcript_2_1" length="89" weight="1.000000" />
-<sequence id="sequence_27" name="KC1P2N_k25_Locus_23255_Transcript_1_1" length="83" weight="1.000000" />
-<sequence id="sequence_28" name="KC1P2N_k25_Locus_2405_Transcript_8_1" length="88" weight="1.000000" />
-<sequence id="sequence_29" name="KC1P2N_k25_Locus_3320_Transcript_1_1" length="91" weight="1.000000" />
-<sequence id="sequence_30" name="KC1P2N_k25_Locus_3568_Transcript_3_1" length="88" weight="1.000000" />
-<sequence id="sequence_31" name="KC1P2N_k25_Locus_3892_Transcript_16_1" length="87" weight="1.000000" />
-<sequence id="sequence_32" name="KC1P2N_k25_Locus_4404_Transcript_9_1" length="84" weight="1.000000" />
-<sequence id="sequence_33" name="KC1P2N_k25_Locus_5548_Transcript_1_1" length="90" weight="1.000000" />
-<sequence id="sequence_34" name="KC1P2N_k25_Locus_6107_Transcript_3_1" length="85" weight="1.000000" />
-<sequence id="sequence_35" name="KC1P2N_k25_Locus_7665_Transcript_1_1" length="94" weight="1.000000" />
-<sequence id="sequence_36" name="KC1P2N_k25_Locus_8380_Transcript_11_1" length="90" weight="1.000000" />
-<sequence id="sequence_37" name="KC1P2N_k25_Locus_9474_Transcript_1_1" length="90" weight="1.000000" />
-<sequence id="sequence_38" name="KC1P2N_k31_Locus_10836_Transcript_1_1" length="85" weight="1.000000" />
-<sequence id="sequence_39" name="KC1P2N_k31_Locus_13548_Transcript_5_1" length="81" weight="1.000000" />
-<sequence id="sequence_40" name="KC1P2N_k31_Locus_14360_Transcript_1_1" length="87" weight="1.000000" />
-<sequence id="sequence_41" name="KC1P2N_k31_Locus_14705_Transcript_3_1" length="91" weight="1.000000" />
-<sequence id="sequence_42" name="KC1P2N_k31_Locus_15592_Transcript_5_1" length="81" weight="1.000000" />
-<sequence id="sequence_43" name="KC1P2N_k31_Locus_19089_Transcript_1_1" length="80" weight="1.000000" />
-<sequence id="sequence_44" name="KC1P2N_k31_Locus_24612_Transcript_3_1" length="80" weight="1.000000" />
-<sequence id="sequence_45" name="KC1P2N_k31_Locus_32807_Transcript_1_1" length="83" weight="1.000000" />
-<sequence id="sequence_46" name="KC1P2N_k31_Locus_3321_Transcript_1_1" length="92" weight="1.000000" />
-<sequence id="sequence_47" name="KC1P2N_k31_Locus_389_Transcript_1_1" length="82" weight="1.000000" />
-<sequence id="sequence_48" name="KC1P2N_k31_Locus_4119_Transcript_1_1" length="79" weight="1.000000" />
-<sequence id="sequence_49" name="KC1P2N_k31_Locus_4587_Transcript_4_1" length="78" weight="1.000000" />
-<sequence id="sequence_50" name="KC1P2N_k31_Locus_5960_Transcript_7_1" length="78" weight="1.000000" />
-<sequence id="sequence_51" name="KC1P2N_k31_Locus_7084_Transcript_1_1" length="88" weight="1.000000" />
-<sequence id="sequence_52" name="KC1P2N_k31_Locus_7886_Transcript_1_1" length="78" weight="1.000000" />
-<sequence id="sequence_53" name="KC1P2N_k31_Locus_8042_Transcript_1_1" length="86" weight="1.000000" />
-<sequence id="sequence_54" name="KC1P2N_k31_Locus_956_Transcript_6_1" length="77" weight="1.000000" />
-<sequence id="sequence_55" name="KC1P2N_k37_Locus_11279_Transcript_6_1" length="86" weight="1.000000" />
-<sequence id="sequence_56" name="KC1P2N_k37_Locus_11676_Transcript_1_1" length="88" weight="1.000000" />
-<sequence id="sequence_57" name="KC1P2N_k37_Locus_15526_Transcript_6_1" length="84" weight="1.000000" />
-<sequence id="sequence_58" name="KC1P2N_k37_Locus_16358_Transcript_1_1" length="80" weight="1.000000" />
-<sequence id="sequence_59" name="KC1P2N_k37_Locus_18786_Transcript_1_1" length="92" weight="1.000000" />
-<sequence id="sequence_60" name="KC1P2N_k37_Locus_19918_Transcript_2_1" length="76" weight="1.000000" />
-<sequence id="sequence_61" name="KC1P2N_k37_Locus_2012_Transcript_10_1" length="91" weight="1.000000" />
-<sequence id="sequence_62" name="KC1P2N_k37_Locus_20698_Transcript_1_1" length="66" weight="1.000000" />
-<sequence id="sequence_63" name="KC1P2N_k37_Locus_3385_Transcript_10_1" length="84" weight="1.000000" />
-<sequence id="sequence_64" name="KC1P2N_k37_Locus_4072_Transcript_10_1" length="91" weight="1.000000" />
-<sequence id="sequence_65" name="KC1P2N_k37_Locus_7515_Transcript_3_1" length="84" weight="1.000000" />
-<sequence id="sequence_66" name="KC1P2N_k37_Locus_765_Transcript_8_1" length="86" weight="1.000000" />
-<sequence id="sequence_67" name="KC1P2N_k37_Locus_956_Transcript_8_1" length="73" weight="1.000000" />
-<sequence id="sequence_68" name="KC1P2N_k37_Locus_9894_Transcript_1_1" length="85" weight="1.000000" />
-<sequence id="sequence_69" name="KC1P2N_k43_Locus_11614_Transcript_4_1" length="91" weight="1.000000" />
-<sequence id="sequence_70" name="KC1P2N_k43_Locus_14108_Transcript_4_1" length="80" weight="1.000000" />
-<sequence id="sequence_71" name="KC1P2N_k43_Locus_17100_Transcript_3_1" length="79" weight="1.000000" />
-<sequence id="sequence_72" name="KC1P2N_k43_Locus_17138_Transcript_3_1" length="79" weight="1.000000" />
-<sequence id="sequence_73" name="KC1P2N_k43_Locus_20064_Transcript_1_1" length="72" weight="1.000000" />
-<sequence id="sequence_74" name="KC1P2N_k43_Locus_2134_Transcript_6_1" length="87" weight="1.000000" />
-<sequence id="sequence_75" name="KC1P2N_k43_Locus_2737_Transcript_2_1" length="80" weight="1.000000" />
-<sequence id="sequence_76" name="KC1P2N_k43_Locus_4273_Transcript_3_1" length="83" weight="1.000000" />
-<sequence id="sequence_77" name="KC1P2N_k43_Locus_4798_Transcript_1_1" length="83" weight="1.000000" />
-<sequence id="sequence_78" name="KC1P2N_k43_Locus_5149_Transcript_3_1" length="84" weight="1.000000" />
-<sequence id="sequence_79" name="KC1P2N_k43_Locus_7568_Transcript_1_1" length="82" weight="1.000000" />
-<sequence id="sequence_80" name="KC1P2N_k43_Locus_9167_Transcript_5_1" length="69" weight="1.000000" />
-<sequence id="sequence_81" name="KC1P2N_k49_Locus_11765_Transcript_5_1" length="75" weight="1.000000" />
-<sequence id="sequence_82" name="KC1P2N_k49_Locus_1222_Transcript_1_1" length="81" weight="1.000000" />
-<sequence id="sequence_83" name="KC1P2N_k49_Locus_12312_Transcript_3_1" length="80" weight="1.000000" />
-<sequence id="sequence_84" name="KC1P2N_k49_Locus_14546_Transcript_1_1" length="90" weight="1.000000" />
-<sequence id="sequence_85" name="KC1P2N_k49_Locus_18255_Transcript_1_1" length="81" weight="1.000000" />
-<sequence id="sequence_86" name="KC1P2N_k49_Locus_21195_Transcript_3_1" length="95" weight="1.000000" />
-<sequence id="sequence_87" name="KC1P2N_k49_Locus_2199_Transcript_10_1" length="79" weight="1.000000" />
-<sequence id="sequence_88" name="KC1P2N_k49_Locus_26825_Transcript_2_1" length="82" weight="1.000000" />
-<sequence id="sequence_89" name="KC1P2N_k49_Locus_3568_Transcript_2_1" length="85" weight="1.000000" />
-<sequence id="sequence_90" name="KC1P2N_k49_Locus_3697_Transcript_2_1" length="87" weight="1.000000" />
-<sequence id="sequence_91" name="KC1P2N_k49_Locus_3877_Transcript_4_1" length="72" weight="1.000000" />
-<sequence id="sequence_92" name="KC1P2N_k49_Locus_4564_Transcript_3_1" length="78" weight="1.000000" />
-<sequence id="sequence_93" name="KC1P2N_k49_Locus_7488_Transcript_2_1" length="77" weight="1.000000" />
-<sequence id="sequence_94" name="KC1P2N_k49_Locus_8710_Transcript_3_1" length="80" weight="1.000000" />
-<sequence id="sequence_95" name="KC1P2N_k55_Locus_18579_Transcript_1_1" length="88" weight="1.000000" />
-<sequence id="sequence_96" name="KC1P2N_k55_Locus_19389_Transcript_1_1" length="79" weight="1.000000" />
-<sequence id="sequence_97" name="KC1P2N_k55_Locus_3982_Transcript_2_1" length="91" weight="1.000000" />
-<sequence id="sequence_98" name="KC1P2N_k55_Locus_4495_Transcript_6_1" length="92" weight="1.000000" />
-<sequence id="sequence_99" name="KC1P2N_k55_Locus_4867_Transcript_1_1" length="91" weight="1.000000" />
-<sequence id="sequence_100" name="KC1P2N_k55_Locus_9212_Transcript_3_1" length="81" weight="1.000000" />
-<sequence id="sequence_101" name="KC1P2N_k61_Locus_15611_Transcript_4_1" length="81" weight="1.000000" />
-<sequence id="sequence_102" name="KC1P2N_k61_Locus_16391_Transcript_6_1" length="88" weight="1.000000" />
-<sequence id="sequence_103" name="KC1P2N_k61_Locus_1881_Transcript_1_1" length="71" weight="1.000000" />
-<sequence id="sequence_104" name="KC1P2N_k61_Locus_3228_Transcript_5_1" length="88" weight="1.000000" />
-<sequence id="sequence_105" name="KC1P2N_k65_Locus_11378_Transcript_9_1" length="91" weight="1.000000" />
-<sequence id="sequence_106" name="KC1P2N_k65_Locus_14317_Transcript_1_1" length="88" weight="1.000000" />
-<sequence id="sequence_107" name="KC1P2N_k65_Locus_14363_Transcript_1_1" length="92" weight="1.000000" />
-<sequence id="sequence_108" name="KC1P2N_k65_Locus_16241_Transcript_1_1" length="85" weight="1.000000" />
-<sequence id="sequence_109" name="KC1P2N_k65_Locus_3894_Transcript_2_1" length="80" weight="1.000000" />
-<sequence id="sequence_110" name="KC1P2N_k65_Locus_4435_Transcript_2_1" length="89" weight="1.000000" />
-<sequence id="sequence_111" name="KC1P2N_k65_Locus_4954_Transcript_1_1" length="80" weight="1.000000" />
-<sequence id="sequence_112" name="KC1P2N_k65_Locus_7777_Transcript_1_1" length="80" weight="1.000000" />
-<sequence id="sequence_113" name="KC1P2N_k69_Locus_12056_Transcript_1_1" length="88" weight="1.000000" />
-<sequence id="sequence_114" name="KC1P2N_k69_Locus_9104_Transcript_1_1" length="85" weight="1.000000" />
-<sequence id="sequence_115" name="KC1P2_N1_CL1260Contig1_1" length="88" weight="1.000000" />
-<sequence id="sequence_116" name="KC1P2_N1_k61_Locus_1115_Transcript_2_1" length="80" weight="1.000000" />
-<sequence id="sequence_117" name="KC1P2_N2_k37_Locus_6527_Transcript_1_1" length="84" weight="1.000000" />
-<sequence id="sequence_118" name="KC1P2_N3_CL1243Contig1_1" length="83" weight="1.000000" />
-<sequence id="sequence_119" name="KC1P2_N3_CL1949Contig1_1" length="73" weight="1.000000" />
-<sequence id="sequence_120" name="KC1P2_N3_CL2413Contig1_1" length="79" weight="1.000000" />
-<sequence id="sequence_121" name="KC1P2_N3_CL330Contig1_1" length="93" weight="1.000000" />
-<sequence id="sequence_122" name="KC1P2_N3_CL5159Contig1_1" length="78" weight="1.000000" />
-<sequence id="sequence_123" name="KC1P2_N3_CL890Contig1_1" length="89" weight="1.000000" />
-<sequence id="sequence_124" name="KC1P2_N3_k25_Locus_10907_Transcript_1_1" length="85" weight="1.000000" />
-<sequence id="sequence_125" name="KC1P2_N3_k25_Locus_11402_Transcript_4_1" length="87" weight="1.000000" />
-<sequence id="sequence_126" name="KC1P2_N3_k25_Locus_12289_Transcript_1_1" length="85" weight="1.000000" />
-<sequence id="sequence_127" name="KC1P2_N3_k25_Locus_1594_Transcript_5_1" length="90" weight="1.000000" />
-<sequence id="sequence_128" name="KC1P2_N3_k25_Locus_1645_Transcript_1_1" length="89" weight="1.000000" />
-<sequence id="sequence_129" name="KC1P2_N3_k25_Locus_1746_Transcript_1_1" length="74" weight="1.000000" />
-<sequence id="sequence_130" name="KC1P2_N3_k25_Locus_1862_Transcript_8_1" length="75" weight="1.000000" />
-<sequence id="sequence_131" name="KC1P2_N3_k25_Locus_2172_Transcript_1_1" length="79" weight="1.000000" />
-<sequence id="sequence_132" name="KC1P2_N3_k25_Locus_3735_Transcript_4_1" length="74" weight="1.000000" />
-<sequence id="sequence_133" name="KC1P2_N3_k25_Locus_4048_Transcript_6_1" length="83" weight="1.000000" />
-<sequence id="sequence_134" name="KC1P2_N3_k25_Locus_4224_Transcript_1_1" length="82" weight="1.000000" />
-<sequence id="sequence_135" name="KC1P2_N3_k25_Locus_4545_Transcript_1_1" length="83" weight="1.000000" />
-<sequence id="sequence_136" name="KC1P2_N3_k25_Locus_8007_Transcript_1_1" length="90" weight="1.000000" />
-<sequence id="sequence_137" name="KC1P2_N3_k25_Locus_8028_Transcript_2_1" length="93" weight="1.000000" />
-<sequence id="sequence_138" name="KC1P2_N3_k25_Locus_9682_Transcript_1_1" length="79" weight="1.000000" />
-<sequence id="sequence_139" name="KC1P2_N3_k25_Locus_9900_Transcript_1_1" length="89" weight="1.000000" />
-<sequence id="sequence_140" name="KC1P2_N3_k31_Locus_10983_Transcript_1_1" length="86" weight="1.000000" />
-<sequence id="sequence_141" name="KC1P2_N3_k31_Locus_1125_Transcript_2_1" length="64" weight="1.000000" />
-<sequence id="sequence_142" name="KC1P2_N3_k31_Locus_2136_Transcript_6_1" length="84" weight="1.000000" />
-<sequence id="sequence_143" name="KC1P2_N3_k31_Locus_2985_Transcript_1_1" length="76" weight="1.000000" />
-<sequence id="sequence_144" name="KC1P2_N3_k31_Locus_4170_Transcript_2_1" length="76" weight="1.000000" />
-<sequence id="sequence_145" name="KC1P2_N3_k31_Locus_5068_Transcript_2_1" length="79" weight="1.000000" />
-<sequence id="sequence_146" name="KC1P2_N3_k31_Locus_763_Transcript_1_1" length="87" weight="1.000000" />
-<sequence id="sequence_147" name="KC1P2_N3_k37_Locus_1755_Transcript_2_1" length="82" weight="1.000000" />
-<sequence id="sequence_148" name="KC1P2_N3_k37_Locus_3768_Transcript_3_1" length="78" weight="1.000000" />
-<sequence id="sequence_149" name="KC1P2_N3_k37_Locus_4143_Transcript_1_1" length="82" weight="1.000000" />
-<sequence id="sequence_150" name="KC1P2_N3_k37_Locus_4239_Transcript_4_1" length="83" weight="1.000000" />
-<sequence id="sequence_151" name="KC1P2_N3_k43_Locus_10467_Transcript_1_1" length="81" weight="1.000000" />
-<sequence id="sequence_152" name="KC1P2_N3_k43_Locus_1112_Transcript_3_1" length="84" weight="1.000000" />
-<sequence id="sequence_153" name="KC1P2_N3_k43_Locus_12344_Transcript_1_1" length="78" weight="1.000000" />
-<sequence id="sequence_154" name="KC1P2_N3_k43_Locus_159_Transcript_3_1" length="81" weight="1.000000" />
-<sequence id="sequence_155" name="KC1P2_N3_k43_Locus_2646_Transcript_2_1" length="80" weight="1.000000" />
-<sequence id="sequence_156" name="KC1P2_N3_k43_Locus_28_Transcript_1_1" length="93" weight="1.000000" />
-<sequence id="sequence_157" name="KC1P2_N3_k43_Locus_3569_Transcript_8_1" length="85" weight="1.000000" />
-<sequence id="sequence_158" name="KC1P2_N3_k43_Locus_645_Transcript_1_1" length="85" weight="1.000000" />
-<sequence id="sequence_159" name="KC1P2_N3_k43_Locus_818_Transcript_1_1" length="85" weight="1.000000" />
-<sequence id="sequence_160" name="KC1P2_N3_k49_Locus_12696_Transcript_1_1" length="86" weight="1.000000" />
-<sequence id="sequence_161" name="KC1P2_N3_k49_Locus_3102_Transcript_9_1" length="76" weight="1.000000" />
-<sequence id="sequence_162" name="KC1P2_N3_k49_Locus_5005_Transcript_2_1" length="85" weight="1.000000" />
-<sequence id="sequence_163" name="KC1P2_N3_k49_Locus_5460_Transcript_1_1" length="85" weight="1.000000" />
-<sequence id="sequence_164" name="KC1P2_N3_k55_Locus_12693_Transcript_3_1" length="81" weight="1.000000" />
-<sequence id="sequence_165" name="KC1P2_N3_k55_Locus_13093_Transcript_1_1" length="90" weight="1.000000" />
-<sequence id="sequence_166" name="KC1P2_N3_k55_Locus_6321_Transcript_1_1" length="88" weight="1.000000" />
-<sequence id="sequence_167" name="KC1P2_N3_k61_Locus_1175_Transcript_1_1" length="83" weight="1.000000" />
-<sequence id="sequence_168" name="KC1P2_N3_k61_Locus_1728_Transcript_1_1" length="83" weight="1.000000" />
-<sequence id="sequence_169" name="KC1P2_N3_k61_Locus_281_Transcript_1_1" length="84" weight="1.000000" />
-<sequence id="sequence_170" name="KC1P2_N3_k61_Locus_6630_Transcript_1_1" length="90" weight="1.000000" />
-<sequence id="sequence_171" name="KC1P2_N3_k65_Locus_4778_Transcript_3_1" length="87" weight="1.000000" />
-<sequence id="sequence_172" name="KC1P2_N4_CL1222Contig1_1" length="71" weight="1.000000" />
-<sequence id="sequence_173" name="KC1P2_N4_CL1990Contig1_1" length="79" weight="1.000000" />
-<sequence id="sequence_174" name="KC1P2_N4_CL3Contig13_1" length="90" weight="1.000000" />
-<sequence id="sequence_175" name="KC1P2_N4_CL4515Contig1_1" length="78" weight="1.000000" />
-<sequence id="sequence_176" name="KC1P2_N4_CL6243Contig1_1" length="92" weight="1.000000" />
-<sequence id="sequence_177" name="KC1P2_N4_k25_Locus_12599_Transcript_1_1" length="81" weight="1.000000" />
-<sequence id="sequence_178" name="KC1P2_N4_k25_Locus_13568_Transcript_1_1" length="79" weight="1.000000" />
-<sequence id="sequence_179" name="KC1P2_N4_k25_Locus_13659_Transcript_1_1" length="84" weight="1.000000" />
-<sequence id="sequence_180" name="KC1P2_N4_k25_Locus_231_Transcript_5_1" length="80" weight="1.000000" />
-<sequence id="sequence_181" name="KC1P2_N4_k25_Locus_3720_Transcript_5_1" length="84" weight="1.000000" />
-<sequence id="sequence_182" name="KC1P2_N4_k25_Locus_4242_Transcript_3_1" length="81" weight="1.000000" />
-<sequence id="sequence_183" name="KC1P2_N4_k25_Locus_5849_Transcript_8_1" length="71" weight="1.000000" />
-<sequence id="sequence_184" name="KC1P2_N4_k25_Locus_769_Transcript_2_1" length="71" weight="1.000000" />
-<sequence id="sequence_185" name="KC1P2_N4_k31_Locus_17381_Transcript_2_1" length="84" weight="1.000000" />
-<sequence id="sequence_186" name="KC1P2_N4_k31_Locus_2152_Transcript_1_1" length="87" weight="1.000000" />
-<sequence id="sequence_187" name="KC1P2_N4_k31_Locus_2408_Transcript_1_1" length="90" weight="1.000000" />
-<sequence id="sequence_188" name="KC1P2_N4_k31_Locus_2423_Transcript_3_1" length="80" weight="1.000000" />
-<sequence id="sequence_189" name="KC1P2_N4_k37_Locus_3910_Transcript_2_1" length="90" weight="1.000000" />
-<sequence id="sequence_190" name="KC1P2_N4_k37_Locus_6609_Transcript_7_1" length="90" weight="1.000000" />
-<sequence id="sequence_191" name="KC1P2_N4_k37_Locus_8250_Transcript_1_1" length="90" weight="1.000000" />
-<sequence id="sequence_192" name="KC1P2_N4_k43_Locus_15595_Transcript_1_1" length="81" weight="1.000000" />
-<sequence id="sequence_193" name="KC1P2_N4_k43_Locus_3250_Transcript_8_1" length="81" weight="1.000000" />
-<sequence id="sequence_194" name="KC1P2_N4_k43_Locus_4021_Transcript_1_1" length="79" weight="1.000000" />
-<sequence id="sequence_195" name="KC1P2_N4_k43_Locus_4144_Transcript_1_1" length="87" weight="1.000000" />
-<sequence id="sequence_196" name="KC1P2_N4_k43_Locus_5064_Transcript_2_1" length="82" weight="1.000000" />
-<sequence id="sequence_197" name="KC1P2_N4_k43_Locus_660_Transcript_6_1" length="86" weight="1.000000" />
-<sequence id="sequence_198" name="KC1P2_N4_k43_Locus_9512_Transcript_1_1" length="88" weight="1.000000" />
-<sequence id="sequence_199" name="KC1P2_N4_k49_Locus_10004_Transcript_5_1" length="79" weight="1.000000" />
-<sequence id="sequence_200" name="KC1P2_N4_k49_Locus_1267_Transcript_3_1" length="84" weight="1.000000" />
-<sequence id="sequence_201" name="KC1P2_N4_k49_Locus_2063_Transcript_2_1" length="86" weight="1.000000" />
-<sequence id="sequence_202" name="KC1P2_N4_k49_Locus_7767_Transcript_1_1" length="81" weight="1.000000" />
-<sequence id="sequence_203" name="KC1P2_N4_k61_Locus_3134_Transcript_5_1" length="80" weight="1.000000" />
-<sequence id="sequence_204" name="KC1P2_N4_k65_Locus_16064_Transcript_1_1" length="82" weight="1.000000" />
-<sequence id="sequence_205" name="KC1P2_N4_k65_Locus_837_Transcript_1_1" length="75" weight="1.000000" />
+<sequence id="sequence_0" name="KC1-P2-N_CL1062Contig1_1" length="87" weight="1.000000" />
+<sequence id="sequence_1" name="KC1-P2-N_CL2249Contig1_1" length="82" weight="1.000000" />
+<sequence id="sequence_2" name="KC1-P2-N_CL3877Contig1_1" length="72" weight="1.000000" />
+<sequence id="sequence_3" name="KC1-P2-N_CL425Contig1_1" length="84" weight="1.000000" />
+<sequence id="sequence_4" name="KC1-P2-N_CL7313Contig1_1" length="84" weight="1.000000" />
+<sequence id="sequence_5" name="KC1-P2-N_CL7724Contig1_1" length="90" weight="1.000000" />
+<sequence id="sequence_6" name="KC1-P2-N_CL7868Contig1_1" length="86" weight="1.000000" />
+<sequence id="sequence_7" name="KC1-P2-N_CL8355Contig1_1" length="80" weight="1.000000" />
+<sequence id="sequence_8" name="KC1-P2-N_CL8449Contig1_1" length="81" weight="1.000000" />
+<sequence id="sequence_9" name="KC1-P2-N_k25_Locus_10091_Transcript_12_1" length="73" weight="1.000000" />
+<sequence id="sequence_10" name="KC1-P2-N_k25_Locus_10481_Transcript_2_1" length="88" weight="1.000000" />
+<sequence id="sequence_11" name="KC1-P2-N_k25_Locus_10664_Transcript_9_1" length="77" weight="1.000000" />
+<sequence id="sequence_12" name="KC1-P2-N_k25_Locus_1140_Transcript_7_1" length="75" weight="1.000000" />
+<sequence id="sequence_13" name="KC1-P2-N_k25_Locus_11903_Transcript_1_1" length="91" weight="1.000000" />
+<sequence id="sequence_14" name="KC1-P2-N_k25_Locus_12286_Transcript_7_1" length="90" weight="1.000000" />
+<sequence id="sequence_15" name="KC1-P2-N_k25_Locus_12808_Transcript_1_1" length="84" weight="1.000000" />
+<sequence id="sequence_16" name="KC1-P2-N_k25_Locus_13183_Transcript_1_1" length="85" weight="1.000000" />
+<sequence id="sequence_17" name="KC1-P2-N_k25_Locus_1333_Transcript_10_1" length="73" weight="1.000000" />
+<sequence id="sequence_18" name="KC1-P2-N_k25_Locus_13647_Transcript_9_1" length="86" weight="1.000000" />
+<sequence id="sequence_19" name="KC1-P2-N_k25_Locus_14815_Transcript_6_1" length="77" weight="1.000000" />
+<sequence id="sequence_20" name="KC1-P2-N_k25_Locus_1651_Transcript_2_1" length="95" weight="1.000000" />
+<sequence id="sequence_21" name="KC1-P2-N_k25_Locus_19177_Transcript_4_1" length="74" weight="1.000000" />
+<sequence id="sequence_22" name="KC1-P2-N_k25_Locus_19503_Transcript_4_1" length="81" weight="1.000000" />
+<sequence id="sequence_23" name="KC1-P2-N_k25_Locus_199_Transcript_10_1" length="83" weight="1.000000" />
+<sequence id="sequence_24" name="KC1-P2-N_k25_Locus_20183_Transcript_3_1" length="81" weight="1.000000" />
+<sequence id="sequence_25" name="KC1-P2-N_k25_Locus_20436_Transcript_1_1" length="86" weight="1.000000" />
+<sequence id="sequence_26" name="KC1-P2-N_k25_Locus_22934_Transcript_2_1" length="89" weight="1.000000" />
+<sequence id="sequence_27" name="KC1-P2-N_k25_Locus_23255_Transcript_1_1" length="83" weight="1.000000" />
+<sequence id="sequence_28" name="KC1-P2-N_k25_Locus_2405_Transcript_8_1" length="88" weight="1.000000" />
+<sequence id="sequence_29" name="KC1-P2-N_k25_Locus_3320_Transcript_1_1" length="91" weight="1.000000" />
+<sequence id="sequence_30" name="KC1-P2-N_k25_Locus_3568_Transcript_3_1" length="88" weight="1.000000" />
+<sequence id="sequence_31" name="KC1-P2-N_k25_Locus_3892_Transcript_16_1" length="87" weight="1.000000" />
+<sequence id="sequence_32" name="KC1-P2-N_k25_Locus_4404_Transcript_9_1" length="84" weight="1.000000" />
+<sequence id="sequence_33" name="KC1-P2-N_k25_Locus_5548_Transcript_1_1" length="90" weight="1.000000" />
+<sequence id="sequence_34" name="KC1-P2-N_k25_Locus_6107_Transcript_3_1" length="85" weight="1.000000" />
+<sequence id="sequence_35" name="KC1-P2-N_k25_Locus_7665_Transcript_1_1" length="94" weight="1.000000" />
+<sequence id="sequence_36" name="KC1-P2-N_k25_Locus_8380_Transcript_11_1" length="90" weight="1.000000" />
+<sequence id="sequence_37" name="KC1-P2-N_k25_Locus_9474_Transcript_1_1" length="90" weight="1.000000" />
+<sequence id="sequence_38" name="KC1-P2-N_k31_Locus_10836_Transcript_1_1" length="85" weight="1.000000" />
+<sequence id="sequence_39" name="KC1-P2-N_k31_Locus_13548_Transcript_5_1" length="81" weight="1.000000" />
+<sequence id="sequence_40" name="KC1-P2-N_k31_Locus_14360_Transcript_1_1" length="87" weight="1.000000" />
+<sequence id="sequence_41" name="KC1-P2-N_k31_Locus_14705_Transcript_3_1" length="91" weight="1.000000" />
+<sequence id="sequence_42" name="KC1-P2-N_k31_Locus_15592_Transcript_5_1" length="81" weight="1.000000" />
+<sequence id="sequence_43" name="KC1-P2-N_k31_Locus_19089_Transcript_1_1" length="80" weight="1.000000" />
+<sequence id="sequence_44" name="KC1-P2-N_k31_Locus_24612_Transcript_3_1" length="80" weight="1.000000" />
+<sequence id="sequence_45" name="KC1-P2-N_k31_Locus_32807_Transcript_1_1" length="83" weight="1.000000" />
+<sequence id="sequence_46" name="KC1-P2-N_k31_Locus_3321_Transcript_1_1" length="92" weight="1.000000" />
+<sequence id="sequence_47" name="KC1-P2-N_k31_Locus_389_Transcript_1_1" length="82" weight="1.000000" />
+<sequence id="sequence_48" name="KC1-P2-N_k31_Locus_4119_Transcript_1_1" length="79" weight="1.000000" />
+<sequence id="sequence_49" name="KC1-P2-N_k31_Locus_4587_Transcript_4_1" length="78" weight="1.000000" />
+<sequence id="sequence_50" name="KC1-P2-N_k31_Locus_5960_Transcript_7_1" length="78" weight="1.000000" />
+<sequence id="sequence_51" name="KC1-P2-N_k31_Locus_7084_Transcript_1_1" length="88" weight="1.000000" />
+<sequence id="sequence_52" name="KC1-P2-N_k31_Locus_7886_Transcript_1_1" length="78" weight="1.000000" />
+<sequence id="sequence_53" name="KC1-P2-N_k31_Locus_8042_Transcript_1_1" length="86" weight="1.000000" />
+<sequence id="sequence_54" name="KC1-P2-N_k31_Locus_956_Transcript_6_1" length="77" weight="1.000000" />
+<sequence id="sequence_55" name="KC1-P2-N_k37_Locus_11279_Transcript_6_1" length="86" weight="1.000000" />
+<sequence id="sequence_56" name="KC1-P2-N_k37_Locus_11676_Transcript_1_1" length="88" weight="1.000000" />
+<sequence id="sequence_57" name="KC1-P2-N_k37_Locus_15526_Transcript_6_1" length="84" weight="1.000000" />
+<sequence id="sequence_58" name="KC1-P2-N_k37_Locus_16358_Transcript_1_1" length="80" weight="1.000000" />
+<sequence id="sequence_59" name="KC1-P2-N_k37_Locus_18786_Transcript_1_1" length="92" weight="1.000000" />
+<sequence id="sequence_60" name="KC1-P2-N_k37_Locus_19918_Transcript_2_1" length="76" weight="1.000000" />
+<sequence id="sequence_61" name="KC1-P2-N_k37_Locus_2012_Transcript_10_1" length="91" weight="1.000000" />
+<sequence id="sequence_62" name="KC1-P2-N_k37_Locus_20698_Transcript_1_1" length="66" weight="1.000000" />
+<sequence id="sequence_63" name="KC1-P2-N_k37_Locus_3385_Transcript_10_1" length="84" weight="1.000000" />
+<sequence id="sequence_64" name="KC1-P2-N_k37_Locus_4072_Transcript_10_1" length="91" weight="1.000000" />
+<sequence id="sequence_65" name="KC1-P2-N_k37_Locus_7515_Transcript_3_1" length="84" weight="1.000000" />
+<sequence id="sequence_66" name="KC1-P2-N_k37_Locus_765_Transcript_8_1" length="86" weight="1.000000" />
+<sequence id="sequence_67" name="KC1-P2-N_k37_Locus_956_Transcript_8_1" length="73" weight="1.000000" />
+<sequence id="sequence_68" name="KC1-P2-N_k37_Locus_9894_Transcript_1_1" length="85" weight="1.000000" />
+<sequence id="sequence_69" name="KC1-P2-N_k43_Locus_11614_Transcript_4_1" length="91" weight="1.000000" />
+<sequence id="sequence_70" name="KC1-P2-N_k43_Locus_14108_Transcript_4_1" length="80" weight="1.000000" />
+<sequence id="sequence_71" name="KC1-P2-N_k43_Locus_17100_Transcript_3_1" length="79" weight="1.000000" />
+<sequence id="sequence_72" name="KC1-P2-N_k43_Locus_17138_Transcript_3_1" length="79" weight="1.000000" />
+<sequence id="sequence_73" name="KC1-P2-N_k43_Locus_20064_Transcript_1_1" length="72" weight="1.000000" />
+<sequence id="sequence_74" name="KC1-P2-N_k43_Locus_2134_Transcript_6_1" length="87" weight="1.000000" />
+<sequence id="sequence_75" name="KC1-P2-N_k43_Locus_2737_Transcript_2_1" length="80" weight="1.000000" />
+<sequence id="sequence_76" name="KC1-P2-N_k43_Locus_4273_Transcript_3_1" length="83" weight="1.000000" />
+<sequence id="sequence_77" name="KC1-P2-N_k43_Locus_4798_Transcript_1_1" length="83" weight="1.000000" />
+<sequence id="sequence_78" name="KC1-P2-N_k43_Locus_5149_Transcript_3_1" length="84" weight="1.000000" />
+<sequence id="sequence_79" name="KC1-P2-N_k43_Locus_7568_Transcript_1_1" length="82" weight="1.000000" />
+<sequence id="sequence_80" name="KC1-P2-N_k43_Locus_9167_Transcript_5_1" length="69" weight="1.000000" />
+<sequence id="sequence_81" name="KC1-P2-N_k49_Locus_11765_Transcript_5_1" length="75" weight="1.000000" />
+<sequence id="sequence_82" name="KC1-P2-N_k49_Locus_1222_Transcript_1_1" length="81" weight="1.000000" />
+<sequence id="sequence_83" name="KC1-P2-N_k49_Locus_12312_Transcript_3_1" length="80" weight="1.000000" />
+<sequence id="sequence_84" name="KC1-P2-N_k49_Locus_14546_Transcript_1_1" length="90" weight="1.000000" />
+<sequence id="sequence_85" name="KC1-P2-N_k49_Locus_18255_Transcript_1_1" length="81" weight="1.000000" />
+<sequence id="sequence_86" name="KC1-P2-N_k49_Locus_21195_Transcript_3_1" length="95" weight="1.000000" />
+<sequence id="sequence_87" name="KC1-P2-N_k49_Locus_2199_Transcript_10_1" length="79" weight="1.000000" />
+<sequence id="sequence_88" name="KC1-P2-N_k49_Locus_26825_Transcript_2_1" length="82" weight="1.000000" />
+<sequence id="sequence_89" name="KC1-P2-N_k49_Locus_3568_Transcript_2_1" length="85" weight="1.000000" />
+<sequence id="sequence_90" name="KC1-P2-N_k49_Locus_3697_Transcript_2_1" length="87" weight="1.000000" />
+<sequence id="sequence_91" name="KC1-P2-N_k49_Locus_3877_Transcript_4_1" length="72" weight="1.000000" />
+<sequence id="sequence_92" name="KC1-P2-N_k49_Locus_4564_Transcript_3_1" length="78" weight="1.000000" />
+<sequence id="sequence_93" name="KC1-P2-N_k49_Locus_7488_Transcript_2_1" length="77" weight="1.000000" />
+<sequence id="sequence_94" name="KC1-P2-N_k49_Locus_8710_Transcript_3_1" length="80" weight="1.000000" />
+<sequence id="sequence_95" name="KC1-P2-N_k55_Locus_18579_Transcript_1_1" length="88" weight="1.000000" />
+<sequence id="sequence_96" name="KC1-P2-N_k55_Locus_19389_Transcript_1_1" length="79" weight="1.000000" />
+<sequence id="sequence_97" name="KC1-P2-N_k55_Locus_3982_Transcript_2_1" length="91" weight="1.000000" />
+<sequence id="sequence_98" name="KC1-P2-N_k55_Locus_4495_Transcript_6_1" length="92" weight="1.000000" />
+<sequence id="sequence_99" name="KC1-P2-N_k55_Locus_4867_Transcript_1_1" length="91" weight="1.000000" />
+<sequence id="sequence_100" name="KC1-P2-N_k55_Locus_9212_Transcript_3_1" length="81" weight="1.000000" />
+<sequence id="sequence_101" name="KC1-P2-N_k61_Locus_15611_Transcript_4_1" length="81" weight="1.000000" />
+<sequence id="sequence_102" name="KC1-P2-N_k61_Locus_16391_Transcript_6_1" length="88" weight="1.000000" />
+<sequence id="sequence_103" name="KC1-P2-N_k61_Locus_1881_Transcript_1_1" length="71" weight="1.000000" />
+<sequence id="sequence_104" name="KC1-P2-N_k61_Locus_3228_Transcript_5_1" length="88" weight="1.000000" />
+<sequence id="sequence_105" name="KC1-P2-N_k65_Locus_11378_Transcript_9_1" length="91" weight="1.000000" />
+<sequence id="sequence_106" name="KC1-P2-N_k65_Locus_14317_Transcript_1_1" length="88" weight="1.000000" />
+<sequence id="sequence_107" name="KC1-P2-N_k65_Locus_14363_Transcript_1_1" length="92" weight="1.000000" />
+<sequence id="sequence_108" name="KC1-P2-N_k65_Locus_16241_Transcript_1_1" length="85" weight="1.000000" />
+<sequence id="sequence_109" name="KC1-P2-N_k65_Locus_3894_Transcript_2_1" length="80" weight="1.000000" />
+<sequence id="sequence_110" name="KC1-P2-N_k65_Locus_4435_Transcript_2_1" length="89" weight="1.000000" />
+<sequence id="sequence_111" name="KC1-P2-N_k65_Locus_4954_Transcript_1_1" length="80" weight="1.000000" />
+<sequence id="sequence_112" name="KC1-P2-N_k65_Locus_7777_Transcript_1_1" length="80" weight="1.000000" />
+<sequence id="sequence_113" name="KC1-P2-N_k69_Locus_12056_Transcript_1_1" length="88" weight="1.000000" />
+<sequence id="sequence_114" name="KC1-P2-N_k69_Locus_9104_Transcript_1_1" length="85" weight="1.000000" />
+<sequence id="sequence_115" name="KC1-P2_N1_CL1260Contig1_1" length="88" weight="1.000000" />
+<sequence id="sequence_116" name="KC1-P2_N1_k61_Locus_1115_Transcript_2_1" length="80" weight="1.000000" />
+<sequence id="sequence_117" name="KC1-P2_N2_k37_Locus_6527_Transcript_1_1" length="84" weight="1.000000" />
+<sequence id="sequence_118" name="KC1-P2_N3_CL1243Contig1_1" length="83" weight="1.000000" />
+<sequence id="sequence_119" name="KC1-P2_N3_CL1949Contig1_1" length="73" weight="1.000000" />
+<sequence id="sequence_120" name="KC1-P2_N3_CL2413Contig1_1" length="79" weight="1.000000" />
+<sequence id="sequence_121" name="KC1-P2_N3_CL330Contig1_1" length="93" weight="1.000000" />
+<sequence id="sequence_122" name="KC1-P2_N3_CL5159Contig1_1" length="78" weight="1.000000" />
+<sequence id="sequence_123" name="KC1-P2_N3_CL890Contig1_1" length="89" weight="1.000000" />
+<sequence id="sequence_124" name="KC1-P2_N3_k25_Locus_10907_Transcript_1_1" length="85" weight="1.000000" />
+<sequence id="sequence_125" name="KC1-P2_N3_k25_Locus_11402_Transcript_4_1" length="87" weight="1.000000" />
+<sequence id="sequence_126" name="KC1-P2_N3_k25_Locus_12289_Transcript_1_1" length="85" weight="1.000000" />
+<sequence id="sequence_127" name="KC1-P2_N3_k25_Locus_1594_Transcript_5_1" length="90" weight="1.000000" />
+<sequence id="sequence_128" name="KC1-P2_N3_k25_Locus_1645_Transcript_1_1" length="89" weight="1.000000" />
+<sequence id="sequence_129" name="KC1-P2_N3_k25_Locus_1746_Transcript_1_1" length="74" weight="1.000000" />
+<sequence id="sequence_130" name="KC1-P2_N3_k25_Locus_1862_Transcript_8_1" length="75" weight="1.000000" />
+<sequence id="sequence_131" name="KC1-P2_N3_k25_Locus_2172_Transcript_1_1" length="79" weight="1.000000" />
+<sequence id="sequence_132" name="KC1-P2_N3_k25_Locus_3735_Transcript_4_1" length="74" weight="1.000000" />
+<sequence id="sequence_133" name="KC1-P2_N3_k25_Locus_4048_Transcript_6_1" length="83" weight="1.000000" />
+<sequence id="sequence_134" name="KC1-P2_N3_k25_Locus_4224_Transcript_1_1" length="82" weight="1.000000" />
+<sequence id="sequence_135" name="KC1-P2_N3_k25_Locus_4545_Transcript_1_1" length="83" weight="1.000000" />
+<sequence id="sequence_136" name="KC1-P2_N3_k25_Locus_8007_Transcript_1_1" length="90" weight="1.000000" />
+<sequence id="sequence_137" name="KC1-P2_N3_k25_Locus_8028_Transcript_2_1" length="93" weight="1.000000" />
+<sequence id="sequence_138" name="KC1-P2_N3_k25_Locus_9682_Transcript_1_1" length="79" weight="1.000000" />
+<sequence id="sequence_139" name="KC1-P2_N3_k25_Locus_9900_Transcript_1_1" length="89" weight="1.000000" />
+<sequence id="sequence_140" name="KC1-P2_N3_k31_Locus_10983_Transcript_1_1" length="86" weight="1.000000" />
+<sequence id="sequence_141" name="KC1-P2_N3_k31_Locus_1125_Transcript_2_1" length="64" weight="1.000000" />
+<sequence id="sequence_142" name="KC1-P2_N3_k31_Locus_2136_Transcript_6_1" length="84" weight="1.000000" />
+<sequence id="sequence_143" name="KC1-P2_N3_k31_Locus_2985_Transcript_1_1" length="76" weight="1.000000" />
+<sequence id="sequence_144" name="KC1-P2_N3_k31_Locus_4170_Transcript_2_1" length="76" weight="1.000000" />
+<sequence id="sequence_145" name="KC1-P2_N3_k31_Locus_5068_Transcript_2_1" length="79" weight="1.000000" />
+<sequence id="sequence_146" name="KC1-P2_N3_k31_Locus_763_Transcript_1_1" length="87" weight="1.000000" />
+<sequence id="sequence_147" name="KC1-P2_N3_k37_Locus_1755_Transcript_2_1" length="82" weight="1.000000" />
+<sequence id="sequence_148" name="KC1-P2_N3_k37_Locus_3768_Transcript_3_1" length="78" weight="1.000000" />
+<sequence id="sequence_149" name="KC1-P2_N3_k37_Locus_4143_Transcript_1_1" length="82" weight="1.000000" />
+<sequence id="sequence_150" name="KC1-P2_N3_k37_Locus_4239_Transcript_4_1" length="83" weight="1.000000" />
+<sequence id="sequence_151" name="KC1-P2_N3_k43_Locus_10467_Transcript_1_1" length="81" weight="1.000000" />
+<sequence id="sequence_152" name="KC1-P2_N3_k43_Locus_1112_Transcript_3_1" length="84" weight="1.000000" />
+<sequence id="sequence_153" name="KC1-P2_N3_k43_Locus_12344_Transcript_1_1" length="78" weight="1.000000" />
+<sequence id="sequence_154" name="KC1-P2_N3_k43_Locus_159_Transcript_3_1" length="81" weight="1.000000" />
+<sequence id="sequence_155" name="KC1-P2_N3_k43_Locus_2646_Transcript_2_1" length="80" weight="1.000000" />
+<sequence id="sequence_156" name="KC1-P2_N3_k43_Locus_28_Transcript_1_1" length="93" weight="1.000000" />
+<sequence id="sequence_157" name="KC1-P2_N3_k43_Locus_3569_Transcript_8_1" length="85" weight="1.000000" />
+<sequence id="sequence_158" name="KC1-P2_N3_k43_Locus_645_Transcript_1_1" length="85" weight="1.000000" />
+<sequence id="sequence_159" name="KC1-P2_N3_k43_Locus_818_Transcript_1_1" length="85" weight="1.000000" />
+<sequence id="sequence_160" name="KC1-P2_N3_k49_Locus_12696_Transcript_1_1" length="86" weight="1.000000" />
+<sequence id="sequence_161" name="KC1-P2_N3_k49_Locus_3102_Transcript_9_1" length="76" weight="1.000000" />
+<sequence id="sequence_162" name="KC1-P2_N3_k49_Locus_5005_Transcript_2_1" length="85" weight="1.000000" />
+<sequence id="sequence_163" name="KC1-P2_N3_k49_Locus_5460_Transcript_1_1" length="85" weight="1.000000" />
+<sequence id="sequence_164" name="KC1-P2_N3_k55_Locus_12693_Transcript_3_1" length="81" weight="1.000000" />
+<sequence id="sequence_165" name="KC1-P2_N3_k55_Locus_13093_Transcript_1_1" length="90" weight="1.000000" />
+<sequence id="sequence_166" name="KC1-P2_N3_k55_Locus_6321_Transcript_1_1" length="88" weight="1.000000" />
+<sequence id="sequence_167" name="KC1-P2_N3_k61_Locus_1175_Transcript_1_1" length="83" weight="1.000000" />
+<sequence id="sequence_168" name="KC1-P2_N3_k61_Locus_1728_Transcript_1_1" length="83" weight="1.000000" />
+<sequence id="sequence_169" name="KC1-P2_N3_k61_Locus_281_Transcript_1_1" length="84" weight="1.000000" />
+<sequence id="sequence_170" name="KC1-P2_N3_k61_Locus_6630_Transcript_1_1" length="90" weight="1.000000" />
+<sequence id="sequence_171" name="KC1-P2_N3_k65_Locus_4778_Transcript_3_1" length="87" weight="1.000000" />
+<sequence id="sequence_172" name="KC1-P2_N4_CL1222Contig1_1" length="71" weight="1.000000" />
+<sequence id="sequence_173" name="KC1-P2_N4_CL1990Contig1_1" length="79" weight="1.000000" />
+<sequence id="sequence_174" name="KC1-P2_N4_CL3Contig13_1" length="90" weight="1.000000" />
+<sequence id="sequence_175" name="KC1-P2_N4_CL4515Contig1_1" length="78" weight="1.000000" />
+<sequence id="sequence_176" name="KC1-P2_N4_CL6243Contig1_1" length="92" weight="1.000000" />
+<sequence id="sequence_177" name="KC1-P2_N4_k25_Locus_12599_Transcript_1_1" length="81" weight="1.000000" />
+<sequence id="sequence_178" name="KC1-P2_N4_k25_Locus_13568_Transcript_1_1" length="79" weight="1.000000" />
+<sequence id="sequence_179" name="KC1-P2_N4_k25_Locus_13659_Transcript_1_1" length="84" weight="1.000000" />
+<sequence id="sequence_180" name="KC1-P2_N4_k25_Locus_231_Transcript_5_1" length="80" weight="1.000000" />
+<sequence id="sequence_181" name="KC1-P2_N4_k25_Locus_3720_Transcript_5_1" length="84" weight="1.000000" />
+<sequence id="sequence_182" name="KC1-P2_N4_k25_Locus_4242_Transcript_3_1" length="81" weight="1.000000" />
+<sequence id="sequence_183" name="KC1-P2_N4_k25_Locus_5849_Transcript_8_1" length="71" weight="1.000000" />
+<sequence id="sequence_184" name="KC1-P2_N4_k25_Locus_769_Transcript_2_1" length="71" weight="1.000000" />
+<sequence id="sequence_185" name="KC1-P2_N4_k31_Locus_17381_Transcript_2_1" length="84" weight="1.000000" />
+<sequence id="sequence_186" name="KC1-P2_N4_k31_Locus_2152_Transcript_1_1" length="87" weight="1.000000" />
+<sequence id="sequence_187" name="KC1-P2_N4_k31_Locus_2408_Transcript_1_1" length="90" weight="1.000000" />
+<sequence id="sequence_188" name="KC1-P2_N4_k31_Locus_2423_Transcript_3_1" length="80" weight="1.000000" />
+<sequence id="sequence_189" name="KC1-P2_N4_k37_Locus_3910_Transcript_2_1" length="90" weight="1.000000" />
+<sequence id="sequence_190" name="KC1-P2_N4_k37_Locus_6609_Transcript_7_1" length="90" weight="1.000000" />
+<sequence id="sequence_191" name="KC1-P2_N4_k37_Locus_8250_Transcript_1_1" length="90" weight="1.000000" />
+<sequence id="sequence_192" name="KC1-P2_N4_k43_Locus_15595_Transcript_1_1" length="81" weight="1.000000" />
+<sequence id="sequence_193" name="KC1-P2_N4_k43_Locus_3250_Transcript_8_1" length="81" weight="1.000000" />
+<sequence id="sequence_194" name="KC1-P2_N4_k43_Locus_4021_Transcript_1_1" length="79" weight="1.000000" />
+<sequence id="sequence_195" name="KC1-P2_N4_k43_Locus_4144_Transcript_1_1" length="87" weight="1.000000" />
+<sequence id="sequence_196" name="KC1-P2_N4_k43_Locus_5064_Transcript_2_1" length="82" weight="1.000000" />
+<sequence id="sequence_197" name="KC1-P2_N4_k43_Locus_660_Transcript_6_1" length="86" weight="1.000000" />
+<sequence id="sequence_198" name="KC1-P2_N4_k43_Locus_9512_Transcript_1_1" length="88" weight="1.000000" />
+<sequence id="sequence_199" name="KC1-P2_N4_k49_Locus_10004_Transcript_5_1" length="79" weight="1.000000" />
+<sequence id="sequence_200" name="KC1-P2_N4_k49_Locus_1267_Transcript_3_1" length="84" weight="1.000000" />
+<sequence id="sequence_201" name="KC1-P2_N4_k49_Locus_2063_Transcript_2_1" length="86" weight="1.000000" />
+<sequence id="sequence_202" name="KC1-P2_N4_k49_Locus_7767_Transcript_1_1" length="81" weight="1.000000" />
+<sequence id="sequence_203" name="KC1-P2_N4_k61_Locus_3134_Transcript_5_1" length="80" weight="1.000000" />
+<sequence id="sequence_204" name="KC1-P2_N4_k65_Locus_16064_Transcript_1_1" length="82" weight="1.000000" />
+<sequence id="sequence_205" name="KC1-P2_N4_k65_Locus_837_Transcript_1_1" length="75" weight="1.000000" />
 <letter_frequencies>
 <alphabet_array>
 <value letter_id="A">0.118</value>
@@ -489,7 +489,7 @@
 </background_frequencies>
 </model>
 <motifs>
-<motif id="motif_1" name="TQTQLGACMGALGLHLGSRLD" alt="MEME-1" width="21" sites="181" ic="56.6" re="49.6" llr="6228" p_value="2.1e-087" e_value="2.1e-087" bayes_threshold="6.87615" elapsed_time="20.855472">
+<motif id="motif_1" name="TQTQLGACMGALGLHLGSRLD" alt="MEME-1" width="21" sites="181" ic="56.6" re="49.6" llr="6228" p_value="2.1e-087" e_value="2.1e-087" bayes_threshold="6.87615" elapsed_time="22.305498">
 <scores>
 <alphabet_matrix>
 <alphabet_array>
@@ -6315,7 +6315,7 @@ TQTQLG[AS]C[ML]GAL[GA]LHL[GA]SR[LF][DE]
 </contributing_site>
 </contributing_sites>
 </motif>
-<motif id="motif_2" name="WLEEWRERLECWW" alt="MEME-2" width="13" sites="179" ic="30.8" re="30.5" llr="3781" p_value="1.9e-079" e_value="1.9e-079" bayes_threshold="7.05493" elapsed_time="38.519067">
+<motif id="motif_2" name="WLEEWRERLECWW" alt="MEME-2" width="13" sites="179" ic="30.8" re="30.5" llr="3781" p_value="1.9e-079" e_value="1.9e-079" bayes_threshold="7.05493" elapsed_time="40.945011">
 <scores>
 <alphabet_matrix>
 <alphabet_array>
@@ -10303,7 +10303,7 @@ WLEEW[RQ]ER[LFI]ECWW
 </contributing_site>
 </contributing_sites>
 </motif>
-<motif id="motif_3" name="AEPGCEWVEE" alt="MEME-3" width="10" sites="146" ic="24.0" re="22.0" llr="2229" p_value="2.8e-054" e_value="2.8e-054" bayes_threshold="7.43763" elapsed_time="55.863641">
+<motif id="motif_3" name="AEPGCEWVEE" alt="MEME-3" width="10" sites="146" ic="24.0" re="22.0" llr="2229" p_value="2.8e-054" e_value="2.8e-054" bayes_threshold="7.43763" elapsed_time="60.154098">
 <scores>
 <alphabet_matrix>
 <alphabet_array>
@@ -13094,7 +13094,7 @@ AEPGCEW[VL]EE
 </contributing_site>
 </contributing_sites>
 </motif>
-<motif id="motif_4" name="LPDFPEPFSLPPIPRL" alt="MEME-4" width="16" sites="78" ic="48.1" re="38.0" llr="2056" p_value="1.5e-038" e_value="1.5e-038" bayes_threshold="8.40824" elapsed_time="72.984671">
+<motif id="motif_4" name="LPDFPEPFSLPPIPRL" alt="MEME-4" width="16" sites="78" ic="48.1" re="38.0" llr="2056" p_value="1.5e-038" e_value="1.5e-038" bayes_threshold="8.40824" elapsed_time="78.723514">
 <scores>
 <alphabet_matrix>
 <alphabet_array>
@@ -15529,7 +15529,7 @@ LPDFP[EA]PFXLPP[IL]PRL
 </contributing_site>
 </contributing_sites>
 </motif>
-<motif id="motif_5" name="LZLPDFPD" alt="MEME-5" width="8" sites="67" ic="24.5" re="20.7" llr="960" p_value="8.1e-012" e_value="8.1e-012" bayes_threshold="8.6482" elapsed_time="90.052699">
+<motif id="motif_5" name="LZLPDFPD" alt="MEME-5" width="8" sites="67" ic="24.5" re="20.7" llr="960" p_value="8.1e-012" e_value="8.1e-012" bayes_threshold="8.6482" elapsed_time="96.824546">
 <scores>
 <alphabet_matrix>
 <alphabet_array>
@@ -16834,7 +16834,7 @@ LQLPDFP[DE]
 </contributing_site>
 </contributing_sites>
 </motif>
-<motif id="motif_6" name="AWRAALLGRAPPP" alt="MEME-6" width="13" sites="25" ic="38.6" re="29.6" llr="514" p_value="2.3e-009" e_value="2.3e-009" bayes_threshold="9.81969" elapsed_time="106.770840">
+<motif id="motif_6" name="AWRAALLGRAPPP" alt="MEME-6" width="13" sites="25" ic="38.6" re="29.6" llr="514" p_value="2.3e-009" e_value="2.3e-009" bayes_threshold="9.81969" elapsed_time="114.007113">
 <scores>
 <alphabet_matrix>
 <alphabet_array>
@@ -17896,7 +17896,7 @@ LQLPDFP[DE]
 </contributing_site>
 </contributing_sites>
 </motif>
-<motif id="motif_7" name="PPJPRLLP" alt="MEME-7" width="8" sites="44" ic="29.3" re="22.1" llr="676" p_value="1.4e-008" e_value="1.4e-008" bayes_threshold="9.00839" elapsed_time="123.149122">
+<motif id="motif_7" name="PPJPRLLP" alt="MEME-7" width="8" sites="44" ic="29.3" re="22.1" llr="676" p_value="1.4e-008" e_value="1.4e-008" bayes_threshold="9.00839" elapsed_time="131.219932">
 <scores>
 <alphabet_matrix>
 <alphabet_array>
@@ -18879,7 +18879,7 @@ LQLPDFP[DE]
 </contributing_site>
 </contributing_sites>
 </motif>
-<motif id="motif_8" name="ALGKPPAA" alt="MEME-8" width="8" sites="6" ic="28.8" re="23.5" llr="98" p_value="9.0e-001" e_value="1.9e+000" bayes_threshold="11.0105" elapsed_time="139.828022">
+<motif id="motif_8" name="ALGKPPAA" alt="MEME-8" width="8" sites="6" ic="28.8" re="23.5" llr="98" p_value="9.0e-001" e_value="1.9e+000" bayes_threshold="11.0105" elapsed_time="150.177569">
 <scores>
 <alphabet_matrix>
 <alphabet_array>
@@ -19330,7 +19330,7 @@ ALG[KR]PP[AS]A
 </contributing_site>
 </contributing_sites>
 </motif>
-<motif id="motif_9" name="FPPIPRLP" alt="MEME-9" width="8" sites="9" ic="31.6" re="27.9" llr="174" p_value="4.3e-004" e_value="4.3e-004" bayes_threshold="11.2141" elapsed_time="156.909165">
+<motif id="motif_9" name="FPPIPRLP" alt="MEME-9" width="8" sites="9" ic="31.6" re="27.9" llr="174" p_value="4.3e-004" e_value="4.3e-004" bayes_threshold="11.2141" elapsed_time="168.142901">
 <scores>
 <alphabet_matrix>
 <alphabet_array>
@@ -19823,7 +19823,7 @@ FPPIPRLP
 </contributing_site>
 </contributing_sites>
 </motif>
-<motif id="motif_10" name="APPPPPKATEAECETLGE" alt="MEME-10" width="18" sites="15" ic="39.1" re="34.4" llr="357" p_value="5.1e-002" e_value="5.2e-002" bayes_threshold="11.3005" elapsed_time="173.372307">
+<motif id="motif_10" name="APPPPPKATEAECETLGE" alt="MEME-10" width="18" sites="15" ic="39.1" re="34.4" llr="357" p_value="5.1e-002" e_value="5.2e-002" bayes_threshold="11.3005" elapsed_time="186.056530">
 <scores>
 <alphabet_matrix>
 <alphabet_array>
