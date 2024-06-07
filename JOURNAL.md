@@ -33,7 +33,6 @@
 3. The structure predictions were clustered
    1. The structures were pairwise superimposed using `Biopython.PDB.Superimposer` and the RMSD calculated for each pair
    2. These pairwise distances were used to create a hierarchical clustering using `scipy.cluster.hierarchy` (`structs.ipynb`)
-4.
 
 ## Protein Localization Prediction
 
@@ -42,5 +41,9 @@
 3. The total C-terminal and N-terminal attention weights were compared for different localizations in `localizations.ipynb`
 
 ## Transit Peptide Evaluation
+
+1. HMM profiles were created for the UCYN-A enriched proteins with significant C-terminal alignments (`utp-data/good-c-term-full.fasta`) using `hmmbuild` from HMMER
+2. The prediction performance of the HMM profiles was evaluated by creating a positive and negative control datasets, the latter by sampling sequences from `data/ADK1075_proteomics_DB_2.fasta` with the same length distribution as the positive dataset. (`hmm.ipynb`)
+3. The profile was then used to evaluate protein+transit peptide constructs.
 
 ## Transit Peptide Homology Search
