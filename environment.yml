@@ -1,0 +1,27 @@
+name: nitroblast
+dependencies:
+  - bioconda::pyhmmer=0.10.12=py312hf67a6ed_1
+  - conda-forge::biopython=1.83=py312h98912ed_0
+  - bioconda::hmmer=3.4=hdbdd923_1
+  - salilab::dssp=3.0.0=h3fd9d12_4
+  - bioconda::cialign=1.1.4=pyhca03a8a_0
+  - conda-forge::h5py=3.11.0=nompi_py312hb7ab980_102
+  - conda-forge::ipykernel=6.29.4=pyh3099207_0
+  - conda-forge::python-graphviz=0.20.3=pyh717bed2_0
+  - conda-forge::numpy=1.26.4=py312heda63a1_0
+  - conda-forge::pandas=2.2.2=py312h1d6d2e6_1
+  - conda-forge::scikit-learn=1.5.0=py312h1fcc3ea_1
+  - conda-forge::transformers=4.17.0=pyhd8ed1ab_0
+  - conda-forge::sentencepiece=0.2.0=h7900ff3_2
+  - conda-forge::tqdm=4.66.4=pyhd8ed1ab_0
+  - bioconda::gblocks=0.91b=h9ee0642_2
+  - conda-forge::graphviz=11.0.0=hc68bbd7_0
+  - bioconda::mmseqs2=15.6f452=pl5321h6a68c12_2
+  - conda-forge::matplotlib=3.8.4=py312h7900ff3_2
+  - pip=24.0=pyhd8ed1ab_0
+  - conda-forge::pytorch=2.3.0
+  - pytorch::cpuonly
+  - pip:
+      - mini3di
+      - py3dmol
+      - matplotlib_venn
