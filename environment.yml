@@ -23,7 +23,10 @@ dependencies:
   - pytorch::cpuonly
   - conda-forge::ipywidgets=8.1.3=pyhd8ed1ab_0
   - conda-forge::jupyter=1.0.0=pyhd8ed1ab_10
+  - pyopal
+  - foldseek
   - pip:
       - mini3di
       - py3dmol
       - matplotlib_venn
+      - minineedle

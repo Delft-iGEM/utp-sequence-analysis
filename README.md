@@ -12,6 +12,7 @@ Welcome to the TU Delft iGEM 2024 NitroBlast project repository. This repository
 - `notebooks/`: Jupyter notebooks for data analysis
 - `scripts/`: Python scripts for data processing
 - `results/`: Final, cleaned results such as figures and tables
+- [`JOURNAL.md`](./JOURNAL.md): Detailed notes on the project progress
 
 ## Setup
 

@@ -1,5 +1,5 @@
 temp
 .venv
 *.h5
-af3-split
+structures
 __pycache__
