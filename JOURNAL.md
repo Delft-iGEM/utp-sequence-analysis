@@ -33,6 +33,10 @@
 3. The structure predictions were clustered
    1. The structures were pairwise superimposed using `Biopython.PDB.Superimposer` and the RMSD calculated for each pair
    2. These pairwise distances were used to create a hierarchical clustering using `scipy.cluster.hierarchy` (`structs.ipynb`)
+4. For analyising the structure of the c-terminal regions, 49 structures with strong c-terminal sequence similarity were selected (`structs.ipynb`)
+   1. These were structurally aligned using PyMOL's `cealign` command (`utp-data/align-c-term.pse`)
+   2. The aligned structures were visualized in `structs.ipynb`
+   3. The alignments were used to create a consensus structure (`structs.ipynb`, `results/consensus-c-term.pdb`)
 
 ## Protein Localization Prediction
 
@@ -45,5 +49,6 @@
 1. HMM profiles were created for the UCYN-A enriched proteins with significant C-terminal alignments (`utp-data/good-c-term-full.fasta`) using `hmmbuild` from HMMER
 2. The prediction performance of the HMM profiles was evaluated by creating a positive and negative control datasets, the latter by sampling sequences from `data/ADK1075_proteomics_DB_2.fasta` with the same length distribution as the positive dataset. (`hmm.ipynb`)
 3. The profile was then used to evaluate protein+transit peptide constructs.
+4. The structure of folded protein+transit peptide constructs was aligned with the consensus structure using PyMol's `cealing` function
 
 ## Transit Peptide Homology Search
